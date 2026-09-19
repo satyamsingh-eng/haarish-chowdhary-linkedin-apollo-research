@@ -89,6 +89,61 @@
       "label": "Keenai About",
       "url": "https://www.keenaiglobal.com/about",
       "use": "current Keenai legal-brand and roster context"
+    },
+    {
+      "label": "Century R MoU announcement",
+      "url": "https://centuryr.com/century-r-and-apolonia-capital-sign-strategic-mouto-strengthen-uae-thailand-investment-ties/",
+      "use": "counterparty-reported Thailand–UAE MoU; not closed-deal proof"
+    },
+    {
+      "label": "Innovate Consultancy project page",
+      "url": "https://apoloniacapital.com/projects/innovate-consultancy",
+      "use": "company-controlled project claim"
+    },
+    {
+      "label": "Stratedge Solutions project page",
+      "url": "https://apoloniacapital.com/projects/stratedge-solutions",
+      "use": "company-controlled project claim"
+    },
+    {
+      "label": "Uplift Strategies project page",
+      "url": "https://apoloniacapital.com/projects/uplift-strategies",
+      "use": "company-controlled project claim"
+    },
+    {
+      "label": "LedgerMail dashboard",
+      "url": "https://ledgermail.io",
+      "use": "current public product metrics; historical conflict"
+    },
+    {
+      "label": "LedgerFi 2022 release",
+      "url": "https://finance.yahoo.com/news/ledgerfi-appoints-dr-abdulrahmaan-al-143500527.html",
+      "use": "historical 750K/2M+ product claim"
+    },
+    {
+      "label": "CMA warnings",
+      "url": "https://www.uaecma.gov.ae/en/open-data/warnings",
+      "use": "bounded warning-route check"
+    },
+    {
+      "label": "CMA violations",
+      "url": "https://www.uaecma.gov.ae/en/open-data/violations-and-violators",
+      "use": "bounded violations-route check"
+    },
+    {
+      "label": "OFAC SDN XML",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.XML",
+      "use": "exact-substring sanctions scan"
+    },
+    {
+      "label": "OFAC consolidated XML",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
+      "use": "exact-substring sanctions scan"
+    },
+    {
+      "label": "UN consolidated XML",
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "use": "exact-substring sanctions scan"
     }
   ],
   "privacy_note": "Public package contains no credentials, passwords, tokens, browser sessions, raw private Apollo response, private contact data or local filesystem paths. Apollo is treated as a lead source."

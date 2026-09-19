@@ -189,5 +189,68 @@
     "source_urls": [
       "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/"
     ]
+  },
+  {
+    "id": "AC-21",
+    "claim": "Century R publicly reports signing a Thailand–UAE strategic MoU with Apolonia Capital; this supports a public counterparty announcement, not a closed financing, completed transaction or return.",
+    "status": "COUNTERPARTY_REPORTED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://centuryr.com/century-r-and-apolonia-capital-sign-strategic-mouto-strengthen-uae-thailand-investment-ties/"
+    ]
+  },
+  {
+    "id": "AC-22",
+    "claim": "Three Apolonia project pages name Innovate Consultancy, Stratedge Solutions and Uplift Strategies and display generic project metadata; they are company-controlled pages and do not independently prove client outcomes.",
+    "status": "COMPANY_STATED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://apoloniacapital.com/projects/innovate-consultancy",
+      "https://apoloniacapital.com/projects/stratedge-solutions",
+      "https://apoloniacapital.com/projects/uplift-strategies"
+    ]
+  },
+  {
+    "id": "AC-23",
+    "claim": "The current public LedgerMail dashboard displayed zero groups, zero total users, zero total email exchange and zero active wallets, while a 2022 Yahoo Finance release reported 750K users and 2M+ emails; product status, dashboard scope or metric definitions need reconciliation.",
+    "status": "CONFLICTING_PUBLIC_SIGNALS",
+    "confidence": "medium",
+    "source_urls": [
+      "https://ledgermail.io",
+      "https://finance.yahoo.com/news/ledgerfi-appoints-dr-abdulrahmaan-al-143500527.html"
+    ]
+  },
+  {
+    "id": "AC-24",
+    "claim": "Apolonia’s homepage and team page publish large aggregate transaction and mandate figures, but no transaction-level schedule, named client list, audited AUM or independently verified returns were found.",
+    "status": "COMPANY_STATED_UNVERIFIED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://apoloniacapital.com/",
+      "https://apoloniacapital.com/our-team/"
+    ]
+  },
+  {
+    "id": "AC-25",
+    "claim": "The bounded CMA warning/violations route checks and exact-substring OFAC/UN XML scans found no exact Apolonia, CP-0001330 or founder-name match; dynamic pages, aliases, related parties and untested lists remain outside the result.",
+    "status": "NOT_FOUND_BOUNDED_CHECK",
+    "confidence": "low",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/warnings",
+      "https://www.uaecma.gov.ae/en/open-data/violations-and-violators",
+      "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.XML",
+      "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
+      "https://scsanctions.un.org/resources/xml/en/consolidated.xml"
+    ]
+  },
+  {
+    "id": "AC-26",
+    "claim": "No attributable customer-review profile, verified review volume, recurring complaint pattern or employee-review profile for the exact UAE entity surfaced; unrelated Glassdoor and Trustpilot namesakes were excluded.",
+    "status": "INSUFFICIENT_REVIEW_EVIDENCE",
+    "confidence": "low",
+    "source_urls": [
+      "https://www.glassdoor.com/Reviews/Apol%C3%B3nia-Reviews-E4596529.htm",
+      "https://www.trustpilot.com/review/apolloscapital.com"
+    ]
   }
 ]

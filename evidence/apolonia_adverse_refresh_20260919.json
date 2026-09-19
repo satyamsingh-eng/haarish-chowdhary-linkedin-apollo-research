@@ -1,0 +1,122 @@
+{
+  "checked": "2026-09-19",
+  "subject": "APOLONIA CAPITAL FINANCIAL SERVICES L.L.C. / CP-0001330 and public name variants",
+  "method": "Public web and official-route checks only; no contact, login, anti-bot bypass or private-source access.",
+  "findings": [
+    {
+      "id": "AR-01",
+      "status": "COUNTERPARTY_REPORTED",
+      "claim": "Century R publicly reports a Thailand–UAE strategic MoU with Apolonia Capital.",
+      "safe_reading": "Public announcement only; no closed financing, completed transaction or return was verified.",
+      "source_urls": [
+        "https://centuryr.com/century-r-and-apolonia-capital-sign-strategic-mouto-strengthen-uae-thailand-investment-ties/"
+      ],
+      "direct_fetch_note": "Normal HTTPS retrieval failed certificate validation in this environment; the announcement was located in public search results and is not treated as directly re-read primary evidence."
+    },
+    {
+      "id": "AR-02",
+      "status": "INDEPENDENT_SUPPORT_LIMITED",
+      "claim": "Odoo publicly names Apolonia Capital for Financial Consultation & Financial Analysis LLC as a customer reference and describes a customised CRM/operations implementation.",
+      "safe_reading": "Supports a vendor-recognised implementation, not investment performance, revenue or client satisfaction.",
+      "source_urls": [
+        "https://www.odoo.com/customers/apolonia-capital-for-financial-consultation-financial-analysis-llc-26303195"
+      ],
+      "http_status": 200
+    },
+    {
+      "id": "AR-03",
+      "status": "COMPANY_STATED",
+      "claim": "The Innovate Consultancy, Stratedge Solutions and Uplift Strategies pages show named project claims and generic project metadata.",
+      "safe_reading": "Company-controlled pages; no independent client outcome or mandate evidence found.",
+      "source_urls": [
+        "https://apoloniacapital.com/projects/innovate-consultancy",
+        "https://apoloniacapital.com/projects/stratedge-solutions",
+        "https://apoloniacapital.com/projects/uplift-strategies"
+      ],
+      "http_status": 200
+    },
+    {
+      "id": "AR-04",
+      "status": "CONFLICTING_PUBLIC_SIGNALS",
+      "claim": "The current LedgerMail dashboard displayed zero groups, users, email exchange and active wallets, while a 2022 public release reported 750K users and 2M+ emails.",
+      "safe_reading": "Product status, dashboard scope or metric definitions need reconciliation; this is not evidence of fraud.",
+      "source_urls": [
+        "https://ledgermail.io",
+        "https://finance.yahoo.com/news/ledgerfi-appoints-dr-abdulrahmaan-al-143500527.html"
+      ],
+      "http_status": {
+        "current_dashboard": 200,
+        "historical_release": 200
+      }
+    },
+    {
+      "id": "AR-05",
+      "status": "NOT_FOUND_BOUNDED_CHECK",
+      "claim": "CMA warnings/violations routes and exact-substring OFAC/UN scans found no exact Apolonia, CP-0001330 or founder-name match in the reviewed public content.",
+      "safe_reading": "Not a regulatory or sanctions clearance; dynamic pages, aliases, related parties and untested lists remain outside scope.",
+      "source_urls": [
+        "https://www.uaecma.gov.ae/en/open-data/warnings",
+        "https://www.uaecma.gov.ae/en/open-data/violations-and-violators",
+        "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.XML",
+        "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
+        "https://scsanctions.un.org/resources/xml/en/consolidated.xml"
+      ],
+      "http_status": 200,
+      "searched_substrings": [
+        "APOLONIA",
+        "CP-0001330",
+        "ABDULRAHMAAN",
+        "AL-ANSAARI"
+      ]
+    },
+    {
+      "id": "AR-06",
+      "status": "INSUFFICIENT_REVIEW_EVIDENCE",
+      "claim": "No attributable customer-review profile, verified review volume, recurring complaint pattern or employee-review profile for the exact UAE entity surfaced.",
+      "safe_reading": "Absence of indexed reviews is not evidence of customer satisfaction or dissatisfaction; unrelated Glassdoor/Trustpilot namesakes were excluded.",
+      "source_urls": [
+        "https://www.glassdoor.com/Reviews/Apol%C3%B3nia-Reviews-E4596529.htm",
+        "https://www.trustpilot.com/review/apolloscapital.com"
+      ]
+    }
+  ],
+  "aggregate_claims": [
+    {
+      "claim": "Homepage claims $40B+ government-related transactions, $15B+ capital raising, $13B+ M&A and $4B+ restructuring.",
+      "source_url": "https://apoloniacapital.com/",
+      "status": "COMPANY_STATED_UNVERIFIED"
+    },
+    {
+      "claim": "Team page claims 250+ successfully completed mandates.",
+      "source_url": "https://apoloniacapital.com/our-team/",
+      "status": "COMPANY_STATED_UNVERIFIED"
+    },
+    {
+      "claim": "Fundable profile claims $75B combined team transaction experience.",
+      "source_url": "https://www.fundable.com/apolonia-capital",
+      "status": "PLATFORM_REPORTED_UNVERIFIED"
+    },
+    {
+      "claim": "SuperReturn speaker bio attributes more than $20B of closed transactions to the founder’s career.",
+      "source_url": "https://informaconnect.com/superreturn-me/speakers/he-dr-abdulrahmaan-murtadha-abdulrahim-al-ansaari/",
+      "status": "BIO_REPORTED_UNVERIFIED"
+    }
+  ],
+  "bounded_search_terms": [
+    "Apolonia Capital lawsuit/court/complaint/fraud/scam",
+    "CP-0001330",
+    "Apolonia Capital POSH/harassment/police",
+    "Apolonia Capital review/employee reviews/Reddit/forum",
+    "Apolonia Capital client/mandate/transaction/deal",
+    "site:uaecma.gov.ae Apolonia",
+    "site:dfsa.ae Apolonia",
+    "site:adgm.com Apolonia"
+  ],
+  "limitations": [
+    "Public web only.",
+    "UAE local court records, private regulator files, sealed matters, non-indexed complaints and closed mandates were outside scope.",
+    "DFSA and ADGM registers were access-limited in this environment.",
+    "Exact-string sanctions scans do not cover aliases, transliterations or related parties.",
+    "A failed/blocked fetch is not evidence that the subject is absent or unlicensed."
+  ]
+}

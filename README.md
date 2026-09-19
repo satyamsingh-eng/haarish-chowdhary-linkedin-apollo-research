@@ -20,6 +20,7 @@ The reports link to each other. The Apolonia report is the main report; the Haar
 - [Sanitized Apollo/EWA note](evidence/apollo_ewa_safe.json)
 - [EWA supporting evidence](evidence/ewa_company_evidence.json)
 - [Direct public-source recheck for Haarish evidence](evidence/haarish_public_source_recheck.json)
+- [Apolonia adverse/reputation refresh](evidence/apolonia_adverse_refresh_20260919.json)
 - [QA summary](evidence/qa_summary.json)
 
 ## Plain-language result

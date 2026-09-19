@@ -13,6 +13,9 @@
 - Apolonia’s own disclaimer says that **Investment Banking, Apolonia Ventures, Asset Management, Wealth Management, Multi-Family Office and Securities Services Solutions are future plans and are not currently licensed or offered by CMA**. Read the exact wording on the [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/).
 - AIHL’s [public holding-company site](https://apoloniaholding.com/) says it is an ADGM-established holding company. The site does not show an ADGM registration number or public-register extract in the material captured. Direct confirmation remains **not complete**.
 - A public [Odoo customer reference](https://www.odoo.com/customers/apolonia-capital-for-financial-consultation-financial-analysis-llc-26303195) supports a real operating and software-implementation footprint. It does not prove revenue, closed deals, AUM or client satisfaction.
+- A [Century R public announcement](https://centuryr.com/century-r-and-apolonia-capital-sign-strategic-mouto-strengthen-uae-thailand-investment-ties/) says Century R signed an MoU with Apolonia Capital for Thailand–UAE collaboration. This supports a public counterparty announcement, not a closed financing, completed transaction or investment return; direct retrieval of the page had a certificate problem in this environment.
+- Apolonia’s [project pages](https://apoloniacapital.com/projects/innovate-consultancy), [Stratedge Solutions](https://apoloniacapital.com/projects/stratedge-solutions) and [Uplift Strategies](https://apoloniacapital.com/projects/uplift-strategies) are live and name projects/people, but they are company-controlled pages with no independent client outcome evidence.
+- The current [LedgerMail dashboard](https://ledgermail.io) visibly shows zero groups, users, email exchange and active wallets. A [2022 Yahoo Finance release](https://finance.yahoo.com/news/ledgerfi-appoints-dr-abdulrahmaan-al-143500527.html) reported 750K users exchanging 2M+ emails. This is an unresolved historical/current product-status conflict, not evidence of fraud.
 - The public company page claims a large combined-career record, including **250+ completed mandates**, but no named, client-consented transaction schedule was found. Treat that as a company claim on the [team page](https://apoloniacapital.com/our-team/), not as independently checked performance.
 - No exact, identity-matched public result was found in the bounded searches for a POSH case, harassment case, police case, fraud, scam, lawsuit or court dispute. That is **not** a clean-record certificate.
 - Haarish is publicly presented by Apolonia as **Managing Director, Head of Wealth Management & Multi-Family Office** on his [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/). His separate [Haarish report](PERSON_RESEARCH.md) records the EWA overlap, Apollo mismatch and missing appointment documents.
@@ -241,8 +244,10 @@ Useful official routes: [SEBI AIF rules](https://www.sebi.gov.in/legal/regulatio
 1. An active official CMA company record exists: [CP-0001330](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330).
 2. The official record’s names/functions broadly overlap with several people on the public [Apolonia team page](https://apoloniacapital.com/our-team/).
 3. [Odoo](https://www.odoo.com/customers/apolonia-capital-for-financial-consultation-financial-analysis-llc-26303195) publicly identifies the consultation/analysis LLC as a customer reference and describes a CRM/operations implementation.
-4. External pages support that some named advisers are real professionals, such as [Chartwell’s David Gibson-Moore biography](https://www.chartwell-capital.hk/team/david-gibson-moore/), [The Nature Conservancy’s Sergio Rial page](https://www.nature.org/en-us/about-us/who-we-are/our-people/sergio-rial), [Victoria Commercial Bank’s Dr Yogesh Pattni page](https://www.victoriabank.co.ke/about/theteam) and [Club de Madrid’s Han Seung-soo page](https://clubmadrid.org/who/members/han-seung-soo).
-5. The company publishes a [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/), [AML policy](https://apoloniacapital.com/aml-policy/) and fraud warning. These are good control signals, but they are self-published policies, not an audit of how controls operate.
+4. A [Century R announcement](https://centuryr.com/century-r-and-apolonia-capital-sign-strategic-mouto-strengthen-uae-thailand-investment-ties/) reports a Thailand–UAE strategic MoU. Treat it as a counterparty announcement, not proof of a closed deal.
+5. The live [LedgerMail dashboard](https://ledgermail.io) is a real public product surface, although its current zero metrics conflict with a historical 2022 release and need explanation.
+6. External pages support that some named advisers are real professionals, such as [Chartwell’s David Gibson-Moore biography](https://www.chartwell-capital.hk/team/david-gibson-moore/), [The Nature Conservancy’s Sergio Rial page](https://www.nature.org/en-us/about-us/who-we-are/our-people/sergio-rial), [Victoria Commercial Bank’s Dr Yogesh Pattni page](https://www.victoriabank.co.ke/about/theteam) and [Club de Madrid’s Han Seung-soo page](https://clubmadrid.org/who/members/han-seung-soo).
+7. The company publishes a [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/), [AML policy](https://apoloniacapital.com/aml-policy/) and fraud warning. These are good control signals, but they are self-published policies, not an audit of how controls operate.
 
 ### Missing or weak proof
 
@@ -252,6 +257,8 @@ Useful official routes: [SEBI AIF rules](https://www.sebi.gov.in/legal/regulatio
 - No named, client-consented closed transaction schedule was found.
 - No audited AUM, revenue, profit or fund-close evidence was found.
 - No independent customer review or meaningful employee review was found in the bounded exact-name searches.
+- The project pages are company-controlled and do not provide independent client outcomes.
+- Public homepage/team metrics and third-party/profile figures are not supported by a transaction-level schedule, audited AUM or audited returns. A [Fundable profile](https://www.fundable.com/apolonia-capital) claims $75B in combined team transaction experience, while a [SuperReturn speaker bio](https://informaconnect.com/superreturn-me/speakers/he-dr-abdulrahmaan-murtadha-abdulrahim-al-ansaari/) attributes more than $20B in prior closed transactions and a managed $10B portfolio to the founder’s background. These are not current-firm performance proof.
 - No public document proves Haarish is a statutory director, board member, owner or CMA-approved employee.
 - The site currently contains several dead offering routes, including `/apolonia-ventures/` and `/securities-services-solutions/`, both captured as 404. The [working offerings page](https://apoloniacapital.com/our-offerings/) and [saved page-status manifest](evidence/apolonia_source_manifest.json) preserve the finding without sending readers to dead navigation.
 
@@ -266,8 +273,16 @@ The searches reviewed exact and close name forms for:
 - sanctions and regulator warnings; and
 - customer/employee feedback.
 
-No clearly identity-matched public result was found for Apolonia in the bounded search set. The correct wording is **“No exact public match was found in the reviewed searches”**, not “Apolonia has no cases.” Some records may be private, sealed, settled, non-indexed or held in systems that were access-limited. Search links are kept beside the finding: [general case search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29), [POSH search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29), [review search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28review+OR+testimonial+OR+feedback+OR+experience%29).
+No clearly identity-matched public result was found for Apolonia in the bounded search set. The exact-name variants included `Apolonia Capital`, `Apolonia Capital Financial Consultation & Financial Analysis LLC`, `APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`, `CP-0001330`, `AIHL` and the founder’s name. The correct wording is **“No exact public match was found in the reviewed searches”**, not “Apolonia has no cases.” Some records may be private, sealed, settled, non-indexed or held in systems that were access-limited. Search links are kept beside the finding: [general case search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29), [POSH search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29), [review search](https://www.google.com/search?q=%22Apolonia+Capital%22+%28review+OR+testimonial+OR+feedback+OR+experience%29).
 
+### Regulator-warning and sanctions checks
+
+- The public [CMA warnings route](https://www.uaecma.gov.ae/en/open-data/warnings) and [violations route](https://www.uaecma.gov.ae/en/open-data/violations-and-violators) loaded during the refresh; no exact `Apolonia`, `CP-0001330` or founder-name match appeared in the visible static content. These pages may be dynamic, so this is a bounded route check—not regulatory clearance.
+- Exact-substring scans of the public [OFAC SDN XML](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.XML), [OFAC consolidated XML](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML) and [UN consolidated XML](https://scsanctions.un.org/resources/xml/en/consolidated.xml) found no `APOLONIA`, `CP-0001330`, `ABDULRAHMAAN` or `AL-ANSAARI` match. This does not rule out aliases, transliterations, related parties or lists not tested.
+
+### Reviews and namesakes
+
+No attributable customer-review profile, verified review volume, recurring complaint pattern or employee-review profile for the exact UAE entity surfaced. Results for [Apolónia on Glassdoor](https://www.glassdoor.com/Reviews/Apol%C3%B3nia-Reviews-E4596529.htm) and [apolloscapital.com on Trustpilot](https://www.trustpilot.com/review/apolloscapital.com) were excluded as unrelated namesakes. Review evidence is therefore **insufficient**, not positive.
 ## 11. Contract, fee and money-flow map
 
 Before a partnership, the flow should look like this:
@@ -329,6 +344,7 @@ The public package keeps machine-readable evidence separate from the narrative. 
 - [Sanitized Apollo/EWA lead note](evidence/apollo_ewa_safe.json)
 - [EWA supporting evidence](evidence/ewa_company_evidence.json)
 - [Direct public-source recheck for Haarish evidence](evidence/haarish_public_source_recheck.json)
+- [Apolonia adverse/reputation refresh](evidence/apolonia_adverse_refresh_20260919.json)
 - [Apolonia evidence diagram](assets/apolonia-evidence-map.svg)
 - [QA summary](evidence/qa_summary.json)
 

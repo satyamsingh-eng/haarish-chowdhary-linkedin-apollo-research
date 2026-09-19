@@ -1,0 +1,32 @@
+{
+  "retrieved_at_utc": "2026-09-19T10:06:46Z",
+  "scope": "Apollo company/person lead check for EWA Investments Strategies; safe fields only",
+  "exact_organization_search": {
+    "query": "EWA Investments Strategies",
+    "matches": 0,
+    "reading": "Apollo returned no exact organization record for the full name."
+  },
+  "domain_enrichment": {
+    "domain": "ewa.group",
+    "apollo_name": "EWA",
+    "founded_year": 2025,
+    "industry": "management consulting",
+    "estimated_num_employees": 1,
+    "linkedin_url": "https://www.linkedin.com/company/ewa1",
+    "website_url": "https://ewa.group/",
+    "reading": "Apollo attached the domain to a small EWA record and copied a broad India–UAE advisory description. This is a lead, not independent proof."
+  },
+  "person_enrichment": {
+    "name": "Haarish Chowdhary",
+    "title": "Chief Executive Officer",
+    "linkedin_url": "https://www.linkedin.com/in/harishchowdhary",
+    "organization_name": "EWA",
+    "apollo_start_date": "2025-05-01",
+    "reading": "The exact LinkedIn person match is useful, but the employer/company identity still needs direct documents."
+  },
+  "company_identity_warning": {
+    "broad_ewa_search": "Many unrelated EWA records were returned, including a U.S./Egypt-linked record. The public Dubai page does not match those records.",
+    "do_not_use": "Do not use Apollo company fields as proof of the Dubai legal entity, licence, owners, AUM or client assets."
+  },
+  "privacy_note": "Email, phone, address, internal IDs and raw response fields were not included."
+}

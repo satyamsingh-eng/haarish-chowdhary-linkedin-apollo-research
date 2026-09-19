@@ -1,29 +1,25 @@
-# Haarish Chowdhary — LinkedIn + Apollo research
+# EWA Investments Strategies — company research
 
-Public-source research on the LinkedIn profile `haarishchowdhary`, using Apollo, web search and public company pages.
+A plain-English, public-source company check focused on EWA Investments Strategies / https://ewa.group/ and its public link to Haarish Chowdhary.
 
 **Research date:** 19 September 2026
 
-## Simple answer
-
-Haarish appears to be a real banking and wealth-tech professional. Apollo matched the LinkedIn profile with high confidence and shows a work history through J.P. Morgan, Northern Trust, Adroit/Keenai and EWA.
-
-The main warning is the EWA record: Apollo attached EWA to an Egyptian logistics company, while the public EWA LinkedIn page describes a small Dubai company. The public page links Haarish to EWA content but does not prove his legal role, ownership or a licence.
-
-Apolonia publicly lists him as Managing Director, Head of Wealth Management & Multi-Family Office. The public record does not prove a legal board seat, fund-management licence or guaranteed capital access.
-
-## Read the report
+## Read it
 
 - [HTML report](REPORT.html)
-- [Plain Markdown report](REPORT.md)
-- [Claim ledger](evidence/claims.json)
-- [Apollo person match](evidence/apollo_person_match.json)
-- [All evidence notes](evidence/)
+- [Markdown report](REPORT.md)
+- [Evidence diagram](assets/ewa-evidence-map.svg)
+- [Safe Apollo note](evidence/apollo_ewa_safe.json)
+- [Claim ledger](evidence/ewa_claims.json)
+- [QA summary](evidence/qa_summary.json)
+- [Earlier person-level report](PERSON_RESEARCH.html)
 
-## Important limits
+## Main result
 
-- LinkedIn blocked the full profile in a clean browser with an auth wall. No login wall was bypassed.
-- Apollo is a data service, not an employer or regulator.
-- A search that finds nothing is not proof that no case or complaint exists.
-- This public package contains no private email, phone number, home address, password, token or secret.
-- This is research, not legal, tax or investment advice.
+The public [EWA LinkedIn page](https://www.linkedin.com/company/ewa1) presents a small Dubai consulting company founded in 2025. The [website](https://ewa.group/) is thin and does not show an exact legal name or licence. Apollo links Haarish to the company, but the public page lists one visible employee, so the current role needs documents.
+
+No exact public POSH, harassment, court, fraud, scam or lawsuit result was found in the bounded searches linked inside the report. That is not a clean-record certificate. No independent client review, named deal or case study was found either.
+
+## Safety and privacy
+
+This package contains no private email, phone number, home address, password, token, API key, credential, browser session or raw Apollo response. Apollo is treated as a lead source, not proof. This is not legal, tax or investment advice.

@@ -1,209 +1,130 @@
-# Haarish Chowdhary — LinkedIn + Apollo Research
+# EWA Investments Strategies — company research
 
 **Research date:** 19 September 2026
-**Target:** [LinkedIn profile](https://www.linkedin.com/in/haarishchowdhary)
-**Research type:** Separate person-level check using Apollo, public web search and public pages.
+**Target:** EWA Investments Strategies / [ewa.group](https://ewa.group/)
+**Method:** Apollo lead checks, public company pages, domain records, public media, regulator routes and bounded adverse/review searches. No login wall or private source was bypassed.
 
 ## Simple answer
 
-Haarish appears to be a real banking and wealth-tech professional. Several public pages point to the same person.
+EWA has a **small and recent public footprint**. Its [public LinkedIn company page](https://www.linkedin.com/company/ewa1) describes a Dubai business consulting and services company, says it was founded in 2025, and shows a 2–10 employee range. The [public website](https://ewa.group/) is live, but its home page mainly says “Empowering Business Excellence” and shows a contact form.
 
-But the current job story is not fully clear.
+The domain itself is new: the public [RDAP record](https://rdap.org/domain/ewa.group) shows registration on **06 May 2025**, and [certificate records](https://crt.sh/?q=ewa.group) show HTTPS certificates from the same date. That proves the domain history, not the legal company, ownership, licence or client work.
 
-Apollo says he is **CEO at EWA** from May 2025. Apollo also linked that EWA to an Egyptian logistics company. That company match does not fit the Dubai EWA page.
+Apollo found a strong person match for Haarish and says he is CEO at EWA from May 2025; the safe Apollo result is saved in [`evidence/apollo_ewa_safe.json`](evidence/apollo_ewa_safe.json). But the public [EWA LinkedIn page](https://www.linkedin.com/company/ewa1) lists one visible employee, **Keith Nettles**, and does not list Haarish as an employee. This is a **role/identity conflict**, not proof of wrongdoing.
 
-The public EWA LinkedIn page does describe a small Dubai company. It also reposts Haarish’s posts. But it lists only one employee and does not list Haarish as an employee.
+I found **no exact public result** for a POSH/sexual-harassment case, police case, court case, fraud, scam or lawsuit against the company in the bounded searches linked in the [case search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29) and [POSH search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29). I also found no named client, completed transaction, independent case study or structured customer/employee review in the [review search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29) and [case-study search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29). These are search results, **not a clean-record certificate**.
 
-Apolonia’s own page lists him as **Managing Director, Head of Wealth Management & Multi-Family Office**.
+**Practical view:** keep EWA in the **“needs documents”** bucket. Do not send money, investor lists or client data until the exact legal entity, licence, owners, role and past work are proved.
 
-**Bottom line:** treat Haarish as a possible senior operator and relationship lead. Do not yet treat him as a verified board member, licensed fund manager, licensed Indian adviser or guaranteed source of capital.
+## Status key
 
-## What I checked
+- **PUBLICLY REPORTED:** said on a public company/person page; not independently proved.
+- **APOLLO LEAD:** useful database lead; Apollo is not an employer or regulator. See the [safe Apollo note](evidence/apollo_ewa_safe.json).
+- **VERIFIED DOMAIN RECORD:** checked in a public domain record only.
+- **CONTRADICTORY:** two public records do not agree.
+- **NOT FOUND IN BOUNDED SEARCH:** no result in the named searches; never read this as “nothing exists.”
+- **UNKNOWN:** the public record does not answer the question.
 
-- The exact LinkedIn profile and public LinkedIn posts.
-- Apollo person data for both LinkedIn spelling forms.
-- Apolonia, EWA, Keenai and CEOInsights pages.
-- Public search results for his name, jobs and EWA.
-- A limited check of SEC/IAPD, FINRA, SEC filings, OFAC, UAE CMA, DFSA, ADGM and Indian court search results.
-- The old EWA / CRD 308977 claim.
+## Evidence map
 
-LinkedIn blocked the full profile in a clean browser. It sent the request to an auth wall with HTTP 999. No login wall was bypassed. The public posts and the public EWA company page were still readable. The capture record is in [`linkedin_browser_capture_metadata_20260919.json`](evidence/linkedin_access.md).
+![EWA evidence map](assets/ewa-evidence-map.svg)
 
-## 1. What Apollo found
+The diagram keeps four things separate: the [public EWA brand page](https://www.linkedin.com/company/ewa1), the [Apollo person lead](https://www.apollo.io/), the [ewa.group domain](https://ewa.group/) and the still-unknown legal company/licence. The [Altss record](https://altss.com/profile/ewa) is shown as a warning because it mixes Dubai EWA text with U.S. CRD data; the official [SEC/IAPD record](https://adviserinfo.sec.gov/firm/summary/308977) assigns CRD 308977 to a different U.S. EWA firm.
 
-Apollo matched the exact profile URL with high confidence. It also matched the `harishchowdhary` spelling form to the same person.
+## Company timeline
 
-Apollo lists:
-
-- Name: Haarish Chowdhary.
-- Location: Dubai, United Arab Emirates.
-- Current headline: CEO at EWA, with strategy, capital, M&A and India–UAE work.
-- Current role: Chief Executive Officer, EWA, from May 2025.
-- Past roles at J.P. Morgan, Northern Trust and Adroit/Keenai.
-
-Apollo is useful for finding leads. It is not an employer or a regulator. Its record needs proof from the person, employer or official register.
-
-### Important Apollo error
-
-Apollo matched the EWA company record to an organisation in Egypt. That record says the organisation is in logistics, maritime and warehousing, was founded in 1968 and has about 120 employees.
-
-That does not match the public Dubai EWA page, which says EWA Investments Strategies was founded in 2025 and has 2–10 employees.
-
-**Finding:** Apollo’s person match is useful. Apollo’s company match for EWA is not safe to use. It is likely a wrong company match or a mixed database record.
-
-Sources: [Apollo safe capture](evidence/apollo_person_match.json), [Apollo spelling check](evidence/apollo_variant_resolution.md).
-
-## 2. What the public EWA page shows
-
-The public LinkedIn page for EWA says:
-
-- Full name: EWA Investments Strategies.
-- Location: Dubai.
-- Type: Business consulting and services.
-- Founded: 2025.
-- Size: 2–10 employees.
-- Website: [ewa.group](https://ewa.group/).
-- Listed employee: Keith Nettles.
-
-The page also reposts Haarish’s public posts, including his UAE Stories article. This shows a public link between Haarish and the EWA brand.
-
-It does **not** prove:
-
-- that Haarish owns EWA;
-- that he is an employee or legal director;
-- that EWA has a financial licence;
-- that EWA can manage money;
-- that EWA has client assets or a proven fund track record.
-
-The captured page is here: [`linkedin_ewa_company_20260919.txt`](evidence/ewa_linkedin_page.md).
-
-## 3. The EWA website is too thin to settle the question
-
-The exact website shown on the LinkedIn company page, [ewa.group](https://ewa.group/), loads.
-
-The captured home page mainly says “Empowering Business Excellence” and shows a contact form. It does not show a legal company name, registration number, licence, owners or named team.
-
-This proves that the domain exists. It does not prove a regulated financial business.
-
-Source: [`ewa_group_domain_20260919.txt`](evidence/ewa_domain_check.md).
-
-## 4. Public work history
-
-Apollo gives this timeline. Dates below are Apollo data, not employer letters.
-
-| Period | Apollo role | Simple reading |
+| Date | What the public record says | Status and link |
 |---|---|---|
-| Aug 2003–Jul 2008 | Associate, J.P. Morgan | Early banking role. |
-| Jul 2008–Oct 2010 | Assistant Vice President, Northern Trust | Wealth / banking role. |
-| Oct 2010–Oct 2013 | Assistant Vice President, J.P. Morgan | Returned to J.P. Morgan. |
-| Oct 2013–Feb 2016 | Vice President, J.P. Morgan | More senior role. |
-| Feb 2016–Feb 2018 | Vice President, J.P. Morgan | Continued role. |
-| Feb 2018–Apr 2021 | Executive Director, J.P. Morgan | Senior role. |
-| Apr 2021–Dec 2024 | Chief Product Officer, Keenai / LC Adroit Vantage | Product and wealth-tech work. |
-| Dec 2024–May 2025 | Managing Director and Head of Business, Keenai | Business leadership role. |
-| May 2025 onward | Chief Executive Officer, EWA | Current Apollo record; company match is not reliable. |
+| **06 May 2025** | `ewa.group` was registered, according to the public RDAP event record. | **VERIFIED DOMAIN RECORD** — [RDAP](https://rdap.org/domain/ewa.group) and [certificate history](https://crt.sh/?q=ewa.group). |
+| **2025** | The EWA LinkedIn page says “Founded 2025,” “Privately Held,” “Business Consulting and Services,” and 2–10 employees. | **PUBLICLY REPORTED** — [EWA LinkedIn page](https://www.linkedin.com/company/ewa1). |
+| **May 2025 onward** | Apollo records Haarish as CEO at EWA from May 2025. | **APOLLO LEAD** — [safe Apollo note](evidence/apollo_ewa_safe.json); confirm with an employer or appointment document. |
+| **20 February 2026** | UAE Stories published a favorable profile/interview describing Haarish as CEO and Strategic Advisor at EWA and repeating advisory, wealth-tech, M&A, family-office and India–UAE claims. | **PUBLICLY REPORTED** — [UAE Stories profile](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/); not a client reference or audited case study. |
+| **19 September 2026** | The captured public company page still showed one visible employee, Keith Nettles, while reposting Haarish’s public posts. | **CONTRADICTORY / PUBLICLY REPORTED** — [EWA LinkedIn page](https://www.linkedin.com/company/ewa1). |
 
-### What other pages support
+**What this timeline does not prove:** company incorporation date, trade licence date, legal owner, regulated activity, client assets, revenue, completed deals or a legal Haarish directorship. The [official Dubai licence search](https://app.invest.dubai.ae/search-license) is the right route for a direct check, but its interactive page was blocked by Cloudflare in this environment, so I am not calling that a no-record result.
 
-CEOInsights names “Harish Chowdhary” as Chief Product Officer at Adroit Vantage. The article also says he worked at J.P. Morgan and Northern Trust. It describes a wealth-management software product called AV Suite.
+## What does the company say it does?
 
-Haarish’s public LinkedIn article dated 3 May 2025 says he left Adroit Vantage, also called Keenai, after four years. It is a first-person post, so it is useful but still self-reported.
+The EWA LinkedIn description presents four broad areas: institutional capital/JV structuring, India–UAE industrial entry, exit planning and sovereign/institutional liaison; the same description is visible through the [public EWA page](https://www.linkedin.com/company/ewa1) and the [Apollo domain lead](evidence/apollo_ewa_safe.json). The [EWA website](https://ewa.group/) does not show a named client, deal number, portfolio company, completed exit, fund, licence or team member on its captured home page.
 
-Keenai’s current site says Keenai is a brand of LC Adroit Vantage Private Limited. It says regulated services come from Lighthouse Canton, a Singapore-regulated firm, and that Keenai itself does not hold client money or assets. Haarish is not listed on the current leadership list captured in this review. That does not prove he never held a leadership role there.
+The [UAE Stories profile](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/) says Haarish’s work includes institutional capital advisory, M&A structuring, single-family-office setup and advanced-manufacturing positioning. That is useful as a public description of the story, but it is **not independent proof** that EWA completed those projects.
 
-Sources: [CEOInsights](https://www.ceoinsightsindia.com/leader/harish-chowdhary-a-seasoned-industry-veteran-with-unrivalled-domain-expertise-cid-4672.html), [Haarish’s Keenai post](https://www.linkedin.com/pulse/keenai-journey-impact-now-onward-harish-chowdhary-e6gvc/), [Keenai About page](https://www.keenaiglobal.com/about).
+### Positive signs found
 
-## 5. What Apolonia says about him
+1. The [company LinkedIn page](https://www.linkedin.com/company/ewa1) exists and links to a live [ewa.group website](https://ewa.group/).
+2. The [domain record](https://rdap.org/domain/ewa.group) and [certificate history](https://crt.sh/?q=ewa.group) show a consistent public domain from May 2025.
+3. The page reposts Haarish’s public content, creating a visible brand link; see the [EWA page](https://www.linkedin.com/company/ewa1).
+4. A [dated UAE Stories profile](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/) gives a coherent public description of the planned advisory focus.
 
-Apolonia’s own biography lists Haarish as:
+### What is missing
 
-> Managing Director, Head of Wealth Management & Multi-Family Office.
+- No exact legal company name or trade-licence number on the [website](https://ewa.group/).
+- No named client or completed deal in the [case-study search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29).
+- No independent customer or employee review in the [review search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29).
+- No public case study, audited result, fund record or client-asset proof on the [company page](https://www.linkedin.com/company/ewa1) or [website](https://ewa.group/).
+- No direct proof that Haarish is the legal owner, director or employee; the public page’s visible-employee field conflicts with the [Apollo lead](evidence/apollo_ewa_safe.json).
 
-The page says he has more than 23 years of experience and names senior work at J.P. Morgan, Northern Trust and wealth-tech work.
+## Other people’s feedback
 
-This supports a live public claim that he works with Apolonia. It is a company page, not an employer-independent confirmation.
+The public feedback is **thin, not clearly negative or positive**:
 
-It also does not prove that he is:
+- The [EWA LinkedIn page](https://www.linkedin.com/company/ewa1) shows reposts of Haarish’s posts and post engagement, but it is not a customer-review system and the visible engagement does not prove client satisfaction.
+- The [UAE Stories article](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/) is favorable profile/interview coverage. It repeats the subject’s strategy and career story; it is not a neutral customer reference.
+- The [exact review search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29) did not surface an EWA Investments Strategies Glassdoor, Trustpilot, Google review, Reddit thread or named customer testimonial in the reviewed results.
+- The [Altss page](https://altss.com/profile/ewa) is not customer feedback. It is an automated/secondary company profile and contains a serious identity mix-up with Pittsburgh and CRD 308977.
 
-- a legal director of Apolonia;
-- a board member;
-- a regulator-approved employee;
-- a fund manager;
-- a person allowed to receive client money.
+**Reading:** there is not enough public feedback to rate service quality. “No reviews found” is not the same as “customers are happy.”
 
-Source: [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/).
+## POSH, harassment, complaints and bad allegations
 
-## 6. The old EWA / CRD 308977 problem
+### Result of the bounded search
 
-One online directory mixed two different records:
+I found **no exact company-name result** identifying a POSH case, sexual-harassment complaint, police case, fraud case, scam, lawsuit or court dispute in the [case search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29) and [POSH/harassment search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29). I also ran exact-name searches around complaints, disputes, sanctions and enforcement; the safe search summary is in [`evidence/ewa_company_evidence.json`](evidence/ewa_company_evidence.json).
 
-- a Dubai EWA description; and
-- U.S. CRD 308977.
+That result is **not proof of a clean record**. Dubai/UAE court and police information is not fully open as a simple public company-name database, and private, sealed, settled or non-indexed complaints may not appear online. Do not tell a partner that EWA “has no cases”; the accurate wording is: **“No exact public match was found in the bounded search completed on 19 September 2026.”**
 
-The official SEC/IAPD record shows CRD 308977 belongs to **EWA, LLC / Equilibrium Wealth Advisors**, a U.S. firm. It is not proof of a Dubai licence or Haarish’s registration.
+### POSH meaning in plain English
 
-**Rule:** do not use CRD 308977 in a pitch, contract or diligence note about Haarish or Dubai EWA unless a direct identity document proves a link.
+“POSH” normally refers to India’s workplace sexual-harassment law. EWA presents itself publicly as a Dubai company on its [LinkedIn page](https://www.linkedin.com/company/ewa1), so an Indian POSH search alone cannot answer its UAE workplace position. Ask for the company’s written workplace conduct, complaint and investigation policy before any partnership or hiring decision.
 
-Sources: [SEC/IAPD record](https://adviserinfo.sec.gov/firm/summary/308977), [saved SEC form](evidence/sec_crd_308977.md), [mixed directory capture](evidence/altss_ewa_data_quality.md).
+### Other adverse signals
 
-## 7. Cases, sanctions and regulator checks
+The strongest negative finding is **not an allegation**. It is a data-quality problem: [Altss](https://altss.com/profile/ewa) joins Dubai EWA text to Pittsburgh/U.S. data and CRD 308977, while the official [SEC/IAPD record](https://adviserinfo.sec.gov/firm/summary/308977) names a different U.S. EWA firm. Treat that as a warning to verify identity, not as evidence of fraud.
 
-The fresh search checked exact and close name forms across public search results for:
+## Licence and legal-company check
 
-- SEC/IAPD;
-- FINRA BrokerCheck;
-- SEC filings;
-- OFAC;
-- UAE CMA;
-- DFSA;
-- ADGM; and
-- Indian court search pages.
+The public pages do not identify EWA’s exact legal entity. The right official routes are the [Invest in Dubai licence search](https://app.invest.dubai.ae/search-license), [UAE National Economic Register search](https://ner.economy.ae/BASearch.aspx/1000), [DFSA public register](https://www.dfsa.ae/public-register/firms), [ADGM/FSRA public registers](https://www.adgm.com/public-registers/fsra), [UAE CMA licensed-company route](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx) and [UAE SCA route](https://www.sca.gov.ae/english/Pages/default.aspx). In the bounded exact-name checks completed for this report, no matching EWA Investments Strategies record was established; the Dubai interactive search was blocked, so that part remains **UNKNOWN**, not “clean.”
 
-No clear identity-matched result was found in the reviewed searches.
+EWA’s LinkedIn category is business consulting, not proof of permission to advise on investments, arrange deals, manage assets or receive client money. The [website](https://ewa.group/) does not show a licence number or regulator. Require the licence document and match its legal name, licence number, activities, expiry date and permitted client type before relying on any financial claim.
 
-The earlier Haarish evidence pack also records:
+## Main risk table
 
-- no exact match in the reviewed OFAC and UN files for the searched spelling forms;
-- no exact official SEBI result in the bounded name search; and
-- no public proof that Haarish appears as a board member or displayed accredited employee in the reviewed UAE CMA record.
+| Question | Current answer | Why it matters |
+|---|---|---|
+| Is there a public EWA brand? | **Yes, publicly reported** on [LinkedIn](https://www.linkedin.com/company/ewa1). | A brand page is not a legal entity. |
+| Is the domain real? | **Yes, domain record verified** through [RDAP](https://rdap.org/domain/ewa.group) and [certificate records](https://crt.sh/?q=ewa.group). | A domain is not a licence. |
+| Is Haarish the legal EWA CEO? | **Not proved; Apollo lead conflicts with the visible-employee field** on [LinkedIn](https://www.linkedin.com/company/ewa1). | Role, ownership and authority affect contracts and liability. |
+| Does EWA have a named deal/case study? | **Not found in the bounded [case search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29).** | Without references, capability claims remain untested. |
+| Are there public POSH/court allegations? | **Not found in the bounded searches** — [case search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29) / [POSH search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29). | A search non-result is not a clean-record certificate. |
+| Is there independent customer feedback? | **Not found in the bounded [review search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29).** | Service quality cannot be rated from the current public record. |
+| Is EWA’s licence known? | **Unknown.** See the [official licence search route](https://app.invest.dubai.ae/search-license). | Never send client money or investor data without this answer. |
 
-This is only a **limited search result**. It is not a clean-record certificate. Search tools miss private cases, old records, spelling changes and records that are not online.
+## Documents to request before money or a board role
 
-Source: [fresh official/adverse search file](evidence/search_scope.md).
-
-## 8. What we still need to know
-
-1. What is EWA’s exact legal name and registration number?
-2. Does EWA have a licence? If yes, who issued it and for what work?
-3. Is Haarish an employee, founder, owner, director, adviser or contractor of EWA?
-4. Why did Apollo match EWA to an Egyptian logistics company?
-5. Why does the EWA LinkedIn page list only Keith Nettles as an employee?
-6. Is Haarish still linked to EWA while working with Apolonia?
-7. What document supports the Apolonia title?
-8. Does “board member” mean director, observer, adviser or something else?
-9. Which company would sign the contract and receive fees?
-10. Can any entity connected to this work receive or hold investor/client money?
-11. Which regulator is involved in the long process: SEBI, IFSCA, RBI/FEMA, ADGM/FSRA, UAE CMA/SCA or none?
-12. Can two former employers confirm his dates and titles?
-
-## 9. Safe next step
-
-Before money, investor data or a board role:
-
-1. Ask for a dated CV with exact employer names and dates.
-2. Ask for written permission to check J.P. Morgan, Northern Trust, Adroit/Keenai, EWA and Apolonia roles.
-3. Ask for EWA registration, owners, licence and proof of the `ewa.group` domain.
-4. Ask for the exact Apolonia job document and any board paper.
-5. Ask for two client or deal references that agree to be contacted.
-6. Keep the first test small, written and non-exclusive.
-7. Do not send client money or investor lists to Haarish, EWA or Apolonia until the legal and regulatory checks are complete.
+1. EWA’s exact legal name, trade-licence number, DUL number and incorporation certificate, checked against the [official Dubai route](https://app.invest.dubai.ae/search-license) or [NER route](https://ner.economy.ae/BASearch.aspx/1000).
+2. Licence activities, regulator, expiry date and whether the licence permits advice, arranging, asset management or client-money handling; compare with the [DFSA register](https://www.dfsa.ae/public-register/firms), [ADGM register](https://www.adgm.com/public-registers/fsra) and [UAE CMA route](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx).
+3. Owners, directors and authorised signatories, plus a written explanation for the [LinkedIn employee conflict](https://www.linkedin.com/company/ewa1) and the [Apollo lead](evidence/apollo_ewa_safe.json).
+4. Two client references who agree to be contacted, with a named deal, dates, signed mandate and proof of completion; the current [case search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29) found none.
+5. A written workplace conduct and complaint policy, including who receives harassment complaints; the [POSH search](https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29) found no exact public case but cannot check private matters.
+6. A written conflict explanation for EWA, Haarish and [Apolonia](https://apoloniacapital.com/haarish-chowdhary/), including which company would sign, invoice and receive fees.
+7. No client money, investor list, identity documents or sensitive deal data until the legal entity and licence are verified.
 
 ## Final view
 
-Haarish has enough public work history to justify a careful conversation. He does not yet have enough clear, independent proof for a board seat, a broad partnership, a fund role or any claim that he can bring guaranteed money.
+EWA may be a new Dubai advisory brand built around Haarish’s public profile, but the open record is too small to prove its legal status, licence, team, clients or completed work. The [company page](https://www.linkedin.com/company/ewa1), [website](https://ewa.group/), [domain record](https://rdap.org/domain/ewa.group) and [UAE Stories profile](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/) support a public presence; the [Apollo lead](evidence/apollo_ewa_safe.json) and visible-employee field do not line up.
 
-The key issue is not whether his story is impossible. The key issue is that the current EWA role, legal company, licence and overlap with Apolonia are not yet clear. Ask for the papers before relying on the story.
+There is no responsible basis to say EWA has a POSH case, fraud case or clean record. The accurate result is: **no exact public allegation or case was found in the bounded search, and the legal company/licence remain unknown.** Verify the papers before any partnership, board seat, fee payment, investor introduction or client-data sharing.
 
-## Sources
-
-The full source list and saved files are in the `01_EVIDENCE` and `RAW_CAPTURES` folders beside this report. The claim-by-claim file is [`haarish_linkedin_claims_20260919.json`](evidence/claims.json).
+**Related public report:** [Haarish LinkedIn + Apollo dossier](PERSON_RESEARCH.html).
+**Evidence diagram:** [open the SVG](assets/ewa-evidence-map.svg).
+**This report is research, not legal, tax or investment advice.**

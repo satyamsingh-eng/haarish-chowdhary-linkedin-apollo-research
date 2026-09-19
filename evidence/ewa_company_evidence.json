@@ -1,0 +1,75 @@
+{
+  "retrieved_at_utc": "2026-09-19T10:30:00Z",
+  "company": "EWA Investments Strategies / ewa.group",
+  "public_pages": [
+    {
+      "url": "https://www.linkedin.com/company/ewa1",
+      "finding": "LinkedIn describes a Dubai business consulting and services company; founded 2025; 2–10 employees; one visible employee, Keith Nettles; EWA reposts Haarish posts."
+    },
+    {
+      "url": "https://ewa.group/",
+      "finding": "Landing page title is EWA and it says Empowering Business Excellence; no legal name, registration number, licence, owners, team, client list or case study was visible."
+    },
+    {
+      "url": "https://rdap.org/domain/ewa.group",
+      "finding": "RDAP domain event records show ewa.group registered 2025-05-06; this proves domain registration, not company incorporation or licensing."
+    },
+    {
+      "url": "https://crt.sh/?q=ewa.group",
+      "finding": "Certificate-transparency records show certificates for ewa.group/www.ewa.group from 2025-05-06 onward; this proves HTTPS certificate history, not business activity."
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=ewa.group/*&output=json",
+      "finding": "No Wayback CDX captures were returned for ewa.group in the checked period."
+    },
+    {
+      "url": "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/",
+      "finding": "Dated 2026-02-20 profile/interview presents Haarish as CEO and describes advisory, wealth-tech, M&A, family-office and India–UAE work; it is favorable profile coverage, not customer proof."
+    },
+    {
+      "url": "https://altss.com/profile/ewa",
+      "finding": "Directory page mixes Dubai EWA description with Pittsburgh, U.S. location and CRD 308977; treated as a data-quality warning, not evidence about Dubai EWA."
+    }
+  ],
+  "official_registers": [
+    {
+      "url": "https://app.invest.dubai.ae/search-license",
+      "result": "Interactive search was blocked by Cloudflare in this environment; no negative conclusion drawn."
+    },
+    {
+      "url": "https://www.dfsa.ae/public-register/firms",
+      "result": "No exact EWA Investments Strategies match was found in the bounded reviewed search; direct interactive page/search limits apply."
+    },
+    {
+      "url": "https://www.adgm.com/public-registers/fsra",
+      "result": "No exact EWA Investments Strategies match was found in the bounded reviewed search."
+    },
+    {
+      "url": "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx",
+      "result": "No exact EWA Investments Strategies match was found in the bounded reviewed search."
+    },
+    {
+      "url": "https://ner.economy.ae/BASearch.aspx/1000",
+      "result": "Official UAE business search link checked as a route; no direct exact-name record was established in this pass."
+    }
+  ],
+  "adverse_search": [
+    {
+      "url": "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29",
+      "result": "No exact company-name result identifying a court case, fraud, scam, complaint or lawsuit was surfaced in the reviewed results."
+    },
+    {
+      "url": "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29",
+      "result": "No exact company-name POSH, sexual-harassment or police result was surfaced in the reviewed results."
+    },
+    {
+      "url": "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29",
+      "result": "No exact company-name customer or employee review page was surfaced in the reviewed results."
+    },
+    {
+      "url": "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29",
+      "result": "No named client, completed transaction, portfolio company or independent case study was surfaced in the reviewed results."
+    }
+  ],
+  "limits": "Search results are bounded and not a clean-record certificate. Private complaints, sealed matters, spelling variants and records not indexed online may be missed."
+}

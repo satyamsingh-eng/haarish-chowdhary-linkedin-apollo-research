@@ -1,0 +1,74 @@
+{
+  "retrieved_at_utc": "2026-09-19T10:30:00Z",
+  "claims": [
+    {
+      "id": "EWA-01",
+      "status": "PUBLICLY REPORTED",
+      "claim": "The public EWA page describes EWA Investments Strategies as a Dubai business consulting and services company, founded in 2025, with 2–10 employees.",
+      "links": [
+        "https://www.linkedin.com/company/ewa1"
+      ]
+    },
+    {
+      "id": "EWA-02",
+      "status": "VERIFIED DOMAIN RECORD",
+      "claim": "The ewa.group domain RDAP record shows registration on 06 May 2025; domain registration is not proof of company incorporation or licence.",
+      "links": [
+        "https://rdap.org/domain/ewa.group",
+        "https://crt.sh/?q=ewa.group"
+      ]
+    },
+    {
+      "id": "EWA-03",
+      "status": "CONTRADICTORY",
+      "claim": "Apollo links Haarish to an EWA CEO role from May 2025, but the public company page shows one visible employee, Keith Nettles, and does not list Haarish as an employee.",
+      "links": [
+        "https://www.apollo.io/",
+        "https://www.linkedin.com/company/ewa1"
+      ]
+    },
+    {
+      "id": "EWA-04",
+      "status": "UNVERIFIED",
+      "claim": "The EWA website does not display an exact legal company name, registration number, licence, owners, named team, client list or case study on the captured home page.",
+      "links": [
+        "https://ewa.group/"
+      ]
+    },
+    {
+      "id": "EWA-05",
+      "status": "PUBLICLY REPORTED",
+      "claim": "A February 2026 UAE Stories profile presents Haarish/EWA’s advisory, wealth-tech, M&A, family-office and India–UAE work. It is profile coverage, not independent customer proof.",
+      "links": [
+        "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/"
+      ]
+    },
+    {
+      "id": "EWA-06",
+      "status": "NOT FOUND IN BOUNDED SEARCH",
+      "claim": "No exact company-name POSH, sexual-harassment, police, court, lawsuit, fraud or scam result was found in the reviewed public searches; this is not proof that no complaint exists.",
+      "links": [
+        "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29",
+        "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29"
+      ]
+    },
+    {
+      "id": "EWA-07",
+      "status": "NOT FOUND IN BOUNDED SEARCH",
+      "claim": "No named client, completed deal, portfolio company, independent case study or structured customer/employee review was found in the reviewed public search.",
+      "links": [
+        "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28review+OR+testimonial+OR+feedback+OR+experience%29",
+        "https://www.google.com/search?q=%22EWA+Investments+Strategies%22+%28case+study+OR+client+OR+transaction+OR+deal+OR+portfolio%29"
+      ]
+    },
+    {
+      "id": "EWA-08",
+      "status": "CONTRADICTORY",
+      "claim": "Altss mixes a Dubai EWA description with Pittsburgh and U.S. CRD 308977 data; the official SEC/IAPD page assigns CRD 308977 to a different U.S. EWA firm.",
+      "links": [
+        "https://altss.com/profile/ewa",
+        "https://adviserinfo.sec.gov/firm/summary/308977"
+      ]
+    }
+  ]
+}

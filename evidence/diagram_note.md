@@ -1,0 +1,3 @@
+# Diagram note
+
+The diagram is a visual summary of claims in the report. The public company page is https://www.linkedin.com/company/ewa1; the public website is https://ewa.group/; the domain date is checked through https://rdap.org/domain/ewa.group and https://crt.sh/?q=ewa.group; the Apollo lead is represented only by safe fields in [apollo_ewa_safe.json](apollo_ewa_safe.json). The [Altss page](https://altss.com/profile/ewa) is shown as a conflict because it mixes Dubai EWA text with U.S. CRD 308977, which the [SEC/IAPD record](https://adviserinfo.sec.gov/firm/summary/308977) assigns to another firm.

@@ -1,0 +1,43 @@
+{
+  "status": "PASS_WITH_ACCESS_LIMITS",
+  "checked_on": "2026-09-19",
+  "browser_qa": {
+    "pages_checked": 4,
+    "viewports_checked_each": ["1440x900", "1024x768", "768x1024", "390x844"],
+    "http_statuses": [200],
+    "console_errors": 0,
+    "page_errors": 0,
+    "request_failures": 0,
+    "horizontal_overflow_cases": 0,
+    "missing_headings": 0,
+    "small_navigation_targets": 0,
+    "cross_report_links": "PASS in public and local copies, both directions",
+    "file_mode": "PASS",
+    "print_mode": "PASS"
+  },
+  "relative_links": {
+    "checked_in": ["REPORT.html", "PERSON_RESEARCH.html"],
+    "missing": 0
+  },
+  "external_links": {
+    "unique_links_across_both_reports": 24,
+    "http_200": 21,
+    "access_limited_count": 3,
+    "dead_404_or_5xx": 0,
+    "access_limited": [
+      {
+        "url": "https://app.invest.dubai.ae/search-license",
+        "reason": "official site returned WAF/403 to automated requests"
+      },
+      {
+        "url": "https://www.adgm.com/public-registers/fsra",
+        "reason": "official site returned WAF/403 to automated requests"
+      },
+      {
+        "url": "https://www.linkedin.com/in/haarishchowdhary",
+        "reason": "LinkedIn returned its authentication-wall status 999"
+      }
+    ],
+    "note": "These are valid routes with access limits, not dead links. The report does not treat a blocked official search as a no-record result."
+  }
+}

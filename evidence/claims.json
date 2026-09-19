@@ -1,0 +1,164 @@
+{
+  "research_date": "2026-09-19",
+  "target": "https://www.linkedin.com/in/haarishchowdhary",
+  "claims": [
+    {
+      "id": "LNK-001",
+      "claim": "Apollo returned Haarish Chowdhary for the exact LinkedIn URL with high match confidence.",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "evidence": "Apollo accepted the exact URL and the harishchowdhary spelling variant and returned the same person record.",
+      "sources": [
+        "evidence/apollo_person_match.json",
+        "evidence/apollo_variant_resolution.md"
+      ]
+    },
+    {
+      "id": "LNK-002",
+      "claim": "Apollo says the person is a Dubai-based C-suite professional.",
+      "status": "SOURCE-PROVIDED",
+      "confidence": "MEDIUM",
+      "evidence": "Apollo person data lists Dubai, United Arab Emirates, C-suite department and a high match score. Apollo is a data service, not an employer.",
+      "sources": [
+        "evidence/apollo_person_match.json"
+      ]
+    },
+    {
+      "id": "LNK-003",
+      "claim": "Apollo shows an older work history at J.P. Morgan, Northern Trust, Adroit/Keenai and EWA.",
+      "status": "SOURCE-PROVIDED",
+      "confidence": "MEDIUM",
+      "evidence": "Apollo returns dated employment rows from August 2003 through a current EWA row from May 2025.",
+      "sources": [
+        "evidence/apollo_person_match.json"
+      ]
+    },
+    {
+      "id": "LNK-004",
+      "claim": "The Apollo EWA company match is not the Dubai EWA described in public pages.",
+      "status": "CONTRADICTORY",
+      "confidence": "HIGH",
+      "evidence": "Apollo attaches EWA to Egypt, logistics, maritime and warehousing, founded 1968, about 120 staff. The public LinkedIn EWA page describes EWA Investments Strategies in Dubai, founded 2025, 2–10 employees.",
+      "sources": [
+        "evidence/apollo_person_match.json",
+        "evidence/ewa_linkedin_page.md"
+      ]
+    },
+    {
+      "id": "LNK-005",
+      "claim": "The public EWA LinkedIn page links Haarish to EWA content.",
+      "status": "PUBLICLY REPORTED",
+      "confidence": "MEDIUM",
+      "evidence": "The page reposts Haarish’s UAE Stories article and a Haarish post. It lists only Keith Nettles as an employee.",
+      "sources": [
+        "evidence/ewa_linkedin_page.md"
+      ]
+    },
+    {
+      "id": "LNK-006",
+      "claim": "The EWA domain exists but does not prove a regulated business.",
+      "status": "UNVERIFIED",
+      "confidence": "HIGH",
+      "evidence": "ewa.group loads a generic page with a contact form and no captured legal name, licence, owners or named team.",
+      "sources": [
+        "evidence/ewa_domain_check.md",
+        "https://ewa.group/"
+      ]
+    },
+    {
+      "id": "LNK-007",
+      "claim": "Apolonia publicly presents Haarish as Managing Director and Head of Wealth Management & Multi-Family Office.",
+      "status": "SOURCE-PROVIDED",
+      "confidence": "MEDIUM",
+      "evidence": "Apolonia’s own biography gives this title and describes more than 23 years of experience.",
+      "sources": [
+        "https://apoloniacapital.com/haarish-chowdhary/",
+        "RAW_CAPTURES/apolonia_bio_20260919.txt"
+      ]
+    },
+    {
+      "id": "LNK-008",
+      "claim": "CEOInsights supports the older J.P. Morgan, Northern Trust and Adroit Vantage story.",
+      "status": "PUBLICLY REPORTED",
+      "confidence": "MEDIUM",
+      "evidence": "The article names Harish Chowdhary as Chief Product Officer at Adroit Vantage and discusses J.P. Morgan and Northern Trust work.",
+      "sources": [
+        "https://www.ceoinsightsindia.com/leader/harish-chowdhary-a-seasoned-industry-veteran-with-unrivalled-domain-expertise-cid-4672.html",
+        "RAW_CAPTURES/ceoinsights_profile_20260919.txt"
+      ]
+    },
+    {
+      "id": "LNK-009",
+      "claim": "Haarish publicly said he left Adroit Vantage/Keenai after four years on 3 May 2025.",
+      "status": "PUBLICLY REPORTED",
+      "confidence": "HIGH",
+      "evidence": "The accessible public LinkedIn article says his time with Adroit Vantage, also called Keenai, had come to a close after four years.",
+      "sources": [
+        "https://www.linkedin.com/pulse/keenai-journey-impact-now-onward-harish-chowdhary-e6gvc/",
+        "RAW_CAPTURES/linkedin_pulse_keenai_20260919.txt"
+      ]
+    },
+    {
+      "id": "LNK-010",
+      "claim": "Keenai’s current site does not list Haarish on its captured leadership page.",
+      "status": "UNKNOWN",
+      "confidence": "MEDIUM",
+      "evidence": "The captured Keenai About page lists current leadership names but not Haarish. This does not prove he was never a leader or founder.",
+      "sources": [
+        "https://www.keenaiglobal.com/about",
+        "RAW_CAPTURES/keenai_about_20260919.txt"
+      ]
+    },
+    {
+      "id": "LNK-011",
+      "claim": "CRD 308977 is not proof of Haarish’s or Dubai EWA’s licence.",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "evidence": "The official SEC/IAPD record identifies CRD 308977 as EWA, LLC / Equilibrium Wealth Advisors, a different U.S. firm. A data directory mixed that record with a Dubai EWA description.",
+      "sources": [
+        "https://adviserinfo.sec.gov/firm/summary/308977",
+        "evidence/sec_crd_308977.md",
+        "evidence/altss_ewa_data_quality.md"
+      ]
+    },
+    {
+      "id": "LNK-012",
+      "claim": "The full LinkedIn profile could not be read without sign-in.",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "evidence": "Clean Chromium requests to the profile, experience page and activity page returned LinkedIn authwall pages with HTTP 999.",
+      "sources": [
+        "evidence/linkedin_access.md"
+      ]
+    },
+    {
+      "id": "LNK-013",
+      "claim": "The bounded official and adverse searches found no clear exact-name match.",
+      "status": "UNKNOWN",
+      "confidence": "MEDIUM",
+      "evidence": "The reviewed exact-name searches did not produce a clear identity-matched result in SEC/IAPD, FINRA, SEC filings, OFAC, UAE CMA, DFSA, ADGM or Indian court search results. Existing workspace evidence also records no exact OFAC/UN/SEBI match.",
+      "sources": [
+        "01_EVIDENCE/adverse_official_search_20260919.json",
+        "evidence/search_scope.md",
+        "evidence/search_scope.md"
+      ]
+    },
+    {
+      "id": "LNK-014",
+      "claim": "The public record does not prove Haarish is a statutory Apolonia board member.",
+      "status": "UNVERIFIED",
+      "confidence": "HIGH",
+      "evidence": "Public material shows an operating title. No appointment paper was found, and the reviewed CMA record did not display him among the reviewed board or accredited-employee entries.",
+      "sources": [
+        "https://apoloniacapital.com/haarish-chowdhary/",
+        "evidence/search_scope.md"
+      ]
+    }
+  ],
+  "limits": [
+    "No private contact data is retained.",
+    "No login wall was bypassed.",
+    "No search non-result is a clean-record certificate.",
+    "Apollo data still needs employer and regulator confirmation."
+  ]
+}

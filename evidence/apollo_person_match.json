@@ -1,0 +1,92 @@
+{
+  "captured": "2026-09-19",
+  "query": {
+    "linkedin_url": "https://www.linkedin.com/in/haarishchowdhary"
+  },
+  "source": "Apollo person enrichment via Composio",
+  "match": {
+    "name": "Haarish Chowdhary",
+    "linkedin_url": "http://www.linkedin.com/in/harishchowdhary",
+    "match_confidence": "high",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "headline": "CEO at EWA | Strategic Advisory | Institutional Capital Architect | M&A | India-UAE Industrial Corridor | Angel Investor | Web3 | xJPMorgan | xNorthern Trust Bank",
+    "departments": [
+      "c_suite"
+    ]
+  },
+  "employment_history": [
+    {
+      "current": true,
+      "organization_name": "EWA",
+      "title": "Chief Executive Officer",
+      "start_date": "2025-05-01",
+      "end_date": null
+    },
+    {
+      "current": false,
+      "organization_name": "Keenai Global",
+      "title": "Managing Director and Head of Business",
+      "start_date": "2024-12-01",
+      "end_date": "2025-05-01"
+    },
+    {
+      "current": false,
+      "organization_name": "Keenai Global",
+      "title": "Chief Product Officer (CPO)",
+      "start_date": "2021-04-01",
+      "end_date": "2024-12-01"
+    },
+    {
+      "current": false,
+      "organization_name": "JPMorgan Chase & Co.",
+      "title": "Executive Director",
+      "start_date": "2018-02-01",
+      "end_date": "2021-04-01"
+    },
+    {
+      "current": false,
+      "organization_name": "JPMorgan Chase & Co.",
+      "title": "Vice President",
+      "start_date": "2016-02-01",
+      "end_date": "2018-02-01"
+    },
+    {
+      "current": false,
+      "organization_name": "JPMorgan Chase & Co.",
+      "title": "Vice President",
+      "start_date": "2013-02-01",
+      "end_date": "2018-02-01"
+    },
+    {
+      "current": false,
+      "organization_name": "JPMorgan Chase & Co.",
+      "title": "Assistant Vice President",
+      "start_date": "2010-10-01",
+      "end_date": "2013-02-01"
+    },
+    {
+      "current": false,
+      "organization_name": "Northern Trust Corporation",
+      "title": "Assistant Vice President",
+      "start_date": "2008-07-01",
+      "end_date": "2010-10-01"
+    },
+    {
+      "current": false,
+      "organization_name": "JPMorgan Chase & Co.",
+      "title": "Associate",
+      "start_date": "2003-08-01",
+      "end_date": "2008-07-01"
+    }
+  ],
+  "organization_match_warning": {
+    "organization_name": "EWA",
+    "country": "Egypt",
+    "industry": "logistics & supply chain",
+    "founded_year": 1968,
+    "estimated_num_employees": 120,
+    "note": "Apollo company data does not match the Dubai EWA Investments Strategies page and must not be treated as proof about that company."
+  },
+  "privacy_note": "Email, phone, address, internal IDs and contact fields were not included."
+}

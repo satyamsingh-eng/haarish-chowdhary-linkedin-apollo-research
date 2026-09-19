@@ -8,7 +8,7 @@
 
 ## What this report says in simple English
 
-- The official CMA public record shows **`APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`**, company code **`CP-0001330`**, active in Dubai, established **23 October 2024**, with paid issue capital of **AED 500,000**. It lists **Financial Consultations, Introduction and Promotion** as active activities. This is the strongest legal and licence evidence found: [official CMA record](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330).
+- The official CMA public record shows **`APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`**, company code **`CP-0001330`**, active in Dubai, established **23 October 2024**. The captured raw API field for paid issue capital is **`500000.0`**, but that response does not state the currency. It lists **Financial Consultations, Introduction and Promotion** as active activities. This is the strongest legal and licence evidence found: [official CMA record](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330).
 - Apolonia’s own [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/) uses another name — **Apolonia Capital for Financial Consultation & Financial Analysis LLC** — and licence number **`20200000300`**. A CMA search for that exact number returned no matching company in the captured lookup. This is **unresolved**, not proof that the number is false.
 - Apolonia’s own disclaimer says that **Investment Banking, Apolonia Ventures, Asset Management, Wealth Management, Multi-Family Office and Securities Services Solutions are future plans and are not currently licensed or offered by CMA**. Read the exact wording on the [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/).
 - AIHL’s [public holding-company site](https://apoloniaholding.com/) says it is an ADGM-established holding company. The site does not show an ADGM registration number or public-register extract in the material captured. Direct confirmation remains **not complete**.
@@ -53,7 +53,7 @@ The CMA public lookup captured one active Apolonia record:
 - **CMA company code:** `CP-0001330`
 - **Status:** Active
 - **Established:** 23 October 2024
-- **Paid issue capital:** AED 500,000
+- **Paid issue field:** `500000.0` in the captured CMA API response; the response does not state a currency
 - **City:** Dubai, UAE
 - **Registered address:** Burj Al Salam, Trade Center First, Dubai
 - **Active activities:** Financial Consultations, Introduction and Promotion
@@ -70,7 +70,7 @@ Apolonia’s [regulatory disclaimer](https://apoloniacapital.com/regulatory-disc
 - Category 5 — Financial Consultations, Introduction & Promotion
 - Licence number `20200000300`
 
-The exact number `20200000300` was searched in the CMA public API capture and returned no matching company detail. This could be a trade-licence number, a legacy number, a number from another authority or a website error. The public material does not decide which explanation is correct.
+The exact number `20200000300` was searched in the CMA public API capture and returned no matching company detail. The terms page also spells the brand as **“Apollonia”** with a double `l`, while the Odoo reference uses **“Apolonia”**. These could be a trade name, legacy number, another authority’s identifier, translation/drafting variants or website errors; the public material does not decide which explanation is correct.
 
 **Required document:** the current CMA certificate and UAE trade licence, plus a signed written explanation linking the legal names, company code and licence number.
 
@@ -88,6 +88,8 @@ The CMA record does not, by itself, prove permission to:
 - replace Indian SEBI, IFSCA, RBI/FEMA or company-law requirements.
 
 Apolonia’s own disclaimer is unusually clear: it says these wider services are future plans and will not be conducted until the relevant approval is obtained. The same page says Apolonia does not hold client money or client assets unless separately authorised. Read the [full disclaimer](https://apoloniacapital.com/regulatory-disclaimer/) and [website terms](https://apoloniacapital.com/terms-conditions-4/).
+
+The official public page also displays a **Category 5** record and a notice saying the record does not authorise the described derivatives/commodity/spot-FX brokerage, trading operations, portfolio management or client-order execution. This is a regulator-page scope warning, not a legal opinion about every possible activity: [CMA licensed-companies page](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330).
 
 ## 3. The claimed AIHL group
 
@@ -168,7 +170,7 @@ This section is deliberately shorter than the [separate Haarish report](PERSON_R
 
 ### What is publicly stated
 
-Apolonia’s [biography page](https://apoloniacapital.com/haarish-chowdhary/) says Haarish serves as **Managing Director and Head of Wealth Management & Multi-Family Office**, with more than 23 years across J.P. Morgan, Northern Trust and wealth-tech work. A secondary [HR Today result](https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/) reports the same appointment, but its page returned HTTP 403 during the capture, so it is not used as the only proof.
+Apolonia’s [biography page](https://apoloniacapital.com/haarish-chowdhary/) says Haarish serves as **Managing Director and Head of Wealth Management & Multi-Family Office**, with more than 23 years across J.P. Morgan, Northern Trust and wealth-tech work. The live [team page](https://apoloniacapital.com/our-team/) repeats the operating title under **OUR TEAM**, separate from the people labelled advisory-board members. A public [Haarish LinkedIn joining post](https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV) also says he was joining Apolonia as Head of Wealth Management & Multi-Family Office, and a later [public Apolonia activity article](https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif) says he represented Apolonia and leads Asset & Wealth Management and Family Office coverage. These support a public operating relationship, not a legal directorship, ownership or board appointment. A secondary [HR Today result](https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/) reports the same appointment, but its page returned HTTP 403 during the capture, so it is not used as the only proof.
 
 Apollo’s private person match links Haarish to an EWA CEO role from May 2025. Public LinkedIn search snippets also show an EWA CEO headline, while the [EWA company page](https://www.linkedin.com/company/ewa1) shows a small Dubai company and one visible employee, Keith Nettles. Apollo’s EWA organisation match pointed to an Egyptian logistics company, which does not fit the Dubai EWA page. The safe interpretation is **database mismatch plus an unresolved dual-role question**, not proof of wrongdoing. The public EWA material is discussed in the [separate evidence file](evidence/apollo_ewa_safe.json).
 
@@ -208,7 +210,7 @@ Apollo’s private person match links Haarish to an EWA CEO role from May 2025. 
 
 ### 7. What document supports the Apolonia title?
 
-The only directly observed support is the **current Apolonia biography page**, plus a secondary article reporting the appointment. No employment contract, board resolution, appointment letter, company filing or CMA accreditation for Haarish was obtained. This is a **company-stated operating title**, not verified statutory authority.
+The directly observed support is the **current Apolonia biography and team page**, plus Haarish’s public joining announcement and later Apolonia activity article. A secondary article reports the appointment, but no employment contract, board resolution, appointment letter, company filing or CMA accreditation for Haarish was obtained. This is a **public operating-title claim supported by multiple public pages**, not verified statutory authority.
 
 ### 8. Does “board member” mean director, observer, adviser or something else?
 
@@ -326,6 +328,7 @@ The public package keeps machine-readable evidence separate from the narrative. 
 - [Public source and page-status manifest](evidence/apolonia_source_manifest.json)
 - [Sanitized Apollo/EWA lead note](evidence/apollo_ewa_safe.json)
 - [EWA supporting evidence](evidence/ewa_company_evidence.json)
+- [Direct public-source recheck for Haarish evidence](evidence/haarish_public_source_recheck.json)
 - [Apolonia evidence diagram](assets/apolonia-evidence-map.svg)
 - [QA summary](evidence/qa_summary.json)
 

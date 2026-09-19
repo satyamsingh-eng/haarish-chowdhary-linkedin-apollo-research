@@ -10,7 +10,7 @@
   },
   {
     "id": "AC-02",
-    "claim": "The CMA record gives an established date of 23 October 2024 and paid issue capital of AED 500,000.",
+    "claim": "The CMA detail response gives an established date of 23 October 2024 and shows the raw IssuePaid field as 500000.0; the response does not state a currency.",
     "status": "VERIFIED_PUBLIC_RECORD",
     "confidence": "high",
     "source_urls": [
@@ -142,6 +142,52 @@
     "source_urls": [
       "https://pitchbook.com/profiles/advisor/515821-33",
       "https://apoloniacapital.com/our-team/"
+    ]
+  },
+  {
+    "id": "AC-16",
+    "claim": "The official public CMA page displays a Category 5 record and a notice narrowing the described derivatives/commodity/spot-FX brokerage, trading, portfolio-management and client-order activities; this is not evidence of an asset-management or fund-management licence.",
+    "status": "VERIFIED_PUBLIC_RECORD",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330"
+    ]
+  },
+  {
+    "id": "AC-17",
+    "claim": "Haarish’s public Apolonia joining announcement says he was joining Apolonia Capital as Head of Wealth Management & Multi-Family Office; this supports a public operating relationship but not a board or statutory-director role.",
+    "status": "PUBLICLY_REPORTED",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV"
+    ]
+  },
+  {
+    "id": "AC-18",
+    "claim": "A later public article says Haarish represented Apolonia Capital at TYCOONS and leads Asset & Wealth Management and Family Office coverage; this supports continuing public representation but not legal authority or client-money permission.",
+    "status": "PUBLICLY_REPORTED",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif"
+    ]
+  },
+  {
+    "id": "AC-19",
+    "claim": "The public Apolonia team page places Haarish in the operating team and lists other people separately as advisory-board members; no public board appointment for Haarish was found.",
+    "status": "SOURCE_PROVIDED_UNRESOLVED",
+    "confidence": "high",
+    "source_urls": [
+      "https://apoloniacapital.com/our-team/",
+      "https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV"
+    ]
+  },
+  {
+    "id": "AC-20",
+    "claim": "A public UAE Stories profile dated 20 February 2026 describes Haarish as CEO and Strategic Advisor at EWA; this is media/profile coverage, not an EWA registry, employment contract, ownership record or licence.",
+    "status": "PUBLICLY_REPORTED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/"
     ]
   }
 ]

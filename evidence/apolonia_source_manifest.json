@@ -64,6 +64,31 @@
       "label": "EWA LinkedIn page",
       "url": "https://www.linkedin.com/company/ewa1",
       "use": "supporting EWA identity check"
+    },
+    {
+      "label": "Haarish public joining post",
+      "url": "https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV",
+      "use": "public Apolonia operating-role signal"
+    },
+    {
+      "label": "Haarish Apolonia activity",
+      "url": "https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif",
+      "use": "later public Apolonia representation signal"
+    },
+    {
+      "label": "UAE Stories profile",
+      "url": "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/",
+      "use": "dated EWA CEO/Strategic Advisor profile signal"
+    },
+    {
+      "label": "CEOInsights profile",
+      "url": "https://www.ceoinsightsindia.com/leader/harish-chowdhary-a-seasoned-industry-veteran-with-unrivalled-domain-expertise-cid-4672.html",
+      "use": "public Adroit/JPMorgan/Northern Trust career account"
+    },
+    {
+      "label": "Keenai About",
+      "url": "https://www.keenaiglobal.com/about",
+      "use": "current Keenai legal-brand and roster context"
     }
   ],
   "privacy_note": "Public package contains no credentials, passwords, tokens, browser sessions, raw private Apollo response, private contact data or local filesystem paths. Apollo is treated as a lead source."

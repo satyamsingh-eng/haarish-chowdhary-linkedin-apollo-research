@@ -19,11 +19,12 @@ The reports link to each other. The Apolonia report is the main report; the Haar
 - [Public source/page-status manifest](evidence/apolonia_source_manifest.json)
 - [Sanitized Apollo/EWA note](evidence/apollo_ewa_safe.json)
 - [EWA supporting evidence](evidence/ewa_company_evidence.json)
+- [Direct public-source recheck for Haarish evidence](evidence/haarish_public_source_recheck.json)
 - [QA summary](evidence/qa_summary.json)
 
 ## Plain-language result
 
-The official [UAE CMA record](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330) shows an active entity named `APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`, company code `CP-0001330`, established 23 October 2024, with Financial Consultations, Introduction and Promotion. Apolonia’s own [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/) uses a different name and `20200000300`, and says its wider investment banking, asset-management, wealth, MFO, venture and securities services are future plans that are not currently licensed/offered by CMA.
+The official [UAE CMA record](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330) shows an active entity named `APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`, company code `CP-0001330`, established 23 October 2024, with the raw paid-issue field shown as `500000.0` and no currency stated in that response. It lists Financial Consultations, Introduction and Promotion. Apolonia’s own [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/) uses a different name and `20200000300`, and says its wider investment banking, asset-management, wealth, MFO, venture and securities services are future plans that are not currently licensed/offered by CMA.
 
 AIHL says it is an ADGM holding company, but the public register extract/number was not obtained. Haarish’s Apolonia title is publicly stated; his EWA overlap, legal authority, board status and former-employer dates still need documents.
 

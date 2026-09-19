@@ -1,0 +1,62 @@
+{
+  "checked": "2026-09-19",
+  "method": "Normal public HTTP GET with a browser user-agent; no login or access-control bypass.",
+  "sources": [
+    {
+      "key": "haarish_joining",
+      "url": "https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV",
+      "http_status": 200,
+      "title": "#apoloniacapital #wealthmanagement #familyoffice #uhnw #privatemarkets | Haarish Chowdhary | 62 comments",
+      "checked_phrases": {
+        "joining Apolonia Capital": true,
+        "Head of Wealth Management": true
+      },
+      "use": "Public Apolonia joining/operating-role signal."
+    },
+    {
+      "key": "haarish_tycoons",
+      "url": "https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif",
+      "http_status": 200,
+      "title": "Representing Apolonia Capital at TYCOONS — the exclusive gathering ahead of AIM Congress 2026",
+      "checked_phrases": {
+        "representing Apolonia Capital": true,
+        "leads Asset & Wealth Management": true
+      },
+      "use": "Later public Apolonia representation signal."
+    },
+    {
+      "key": "ceoinsights",
+      "url": "https://www.ceoinsightsindia.com/leader/harish-chowdhary-a-seasoned-industry-veteran-with-unrivalled-domain-expertise-cid-4672.html",
+      "http_status": 200,
+      "title": "Harish Chowdhary: A Seasoned Industry Veteran With Unrivalled Domain Expertise | CEOInsights Vendor",
+      "checked_phrases": {
+        "Chief Product Officer": true,
+        "Northern Trust": true
+      },
+      "use": "Public Adroit/JPMorgan/Northern Trust career account; not employer confirmation."
+    },
+    {
+      "key": "uae_stories",
+      "url": "https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/",
+      "http_status": 200,
+      "title": "Haarish Chowdhary: Architecting WealthTech Independence and Global Industrial Synergy",
+      "checked_phrases": {
+        "CEO and Strategic Advisor": true,
+        "Haarish Chowdhary": true
+      },
+      "use": "Dated public EWA CEO/Strategic Advisor profile; not an EWA registry or licence."
+    },
+    {
+      "key": "keenai_about",
+      "url": "https://www.keenaiglobal.com/about",
+      "http_status": 200,
+      "title": "About Keenai | Leadership, Story & Track Record",
+      "checked_phrases": {
+        "LC Adroit Vantage": true,
+        "Keenai": true
+      },
+      "use": "Current Keenai brand/legal-platform and leadership-roster context."
+    }
+  ],
+  "privacy_note": "No credentials, tokens, private contact data, login content or raw Apollo response is included."
+}

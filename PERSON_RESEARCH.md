@@ -8,12 +8,13 @@
 
 ## Simple answer
 
-Haarish appears to be a real banking and wealth-tech professional. The public [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/) lists him as **Managing Director, Head of Wealth Management & Multi-Family Office**. A public search result from [HR Today](https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/) reports the same appointment, but the page returned HTTP 403 during our direct capture, so it is secondary support only.
+Haarish appears to be a real banking and wealth-tech professional. The public [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/) lists him as **Managing Director, Head of Wealth Management & Multi-Family Office**. His public [joining announcement](https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV) says he was joining Apolonia as Head of Wealth Management & Multi-Family Office, and a later [Apolonia activity article](https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif) says he represented Apolonia and leads Asset & Wealth Management and Family Office coverage. A public search result from [HR Today](https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/) reports the same appointment, but the page returned HTTP 403 during our direct capture, so it is secondary support only.
 
 The current work story is still not fully clear:
 
 - Apollo’s person match says **CEO at EWA from May 2025**.
-- Public LinkedIn search results also show an EWA CEO headline.
+- The public [joining announcement](https://www.linkedin.com/posts/haarishchowdhary_apoloniacapital-wealthmanagement-familyoffice-activity-7442842586009985024-1bIV) supports a March 2026 Apolonia transition/representation claim.
+- A later [public Apolonia activity article](https://www.linkedin.com/pulse/representing-apolonia-capital-tycoons-exclusive-ahead-chowdhary-lspif) supports continued public representation in September 2026.
 - The [EWA company page](https://www.linkedin.com/company/ewa1) describes a small Dubai business but shows only one visible employee, Keith Nettles.
 - Apollo linked the EWA organisation record to an **Egyptian logistics/maritime/warehousing company**, which does not fit the Dubai EWA page.
 - Haarish does not appear in the captured CMA activity-linked employee rows for Apolonia.
@@ -34,7 +35,7 @@ The [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/) says:
 
 > Managing Director, Head of Wealth Management & Multi-Family Office.
 
-The page says Haarish has over 23 years of experience across J.P. Morgan, Northern Trust and wealth-tech work. It describes him as leading Apolonia’s wealth and multi-family-office strategy.
+The page says Haarish has over 23 years of experience across J.P. Morgan, Northern Trust and wealth-tech work. It describes him as leading Apolonia’s wealth and multi-family-office strategy. His own public joining post supports the same operating function, and his later public article supports continued representation of Apolonia. These sources strengthen the public role claim, but they still do not prove the legal contract type.
 
 This proves a live public company claim. It does **not** independently prove:
 
@@ -66,6 +67,8 @@ Apollo matched the EWA organisation to an Egyptian business described as logisti
 **Safe finding:** the person match is useful; the EWA company match is likely wrong or mixed. Do not use it as proof of the Dubai legal entity.
 
 The sanitized public lead note is in [`evidence/apollo_ewa_safe.json`](evidence/apollo_ewa_safe.json). It contains no credentials or raw private Apollo response.
+
+A [UAE Stories profile](https://uaestories.com/haarish-chowdhary-architecting-wealthtech-independence-and-global-industrial-synergy/) dated 20 February 2026 describes him as **CEO and Strategic Advisor at EWA**. This is useful public timing/context, but it is profile coverage—not an EWA registry, employment contract, ownership record or licence.
 
 ## 3. EWA questions
 
@@ -107,6 +110,8 @@ Apollo dates are database leads, not employer letters:
 | Dec 2024–May 2025 | Managing Director and Head of Business, Keenai | Apollo lead; current [Keenai About page](https://www.keenaiglobal.com/about) does not independently confirm the past title. |
 | May 2025 onward | CEO, EWA | Apollo/public LinkedIn lead; company identity is unresolved. |
 | Current public page | Managing Director, Head of Wealth Management & MFO, Apolonia | [Apolonia biography](https://apoloniacapital.com/haarish-chowdhary/) — company-stated. |
+
+His public [JPMorgan farewell post](https://www.linkedin.com/posts/harishchowdhary_after-15-years-of-association-with-jpmorgan-activity-6781579092778188800-AZLl) supports a March 2021 departure claim, and his [Keenai departure article](https://www.linkedin.com/pulse/keenai-journey-impact-now-onward-harish-chowdhary-e6gvc/) supports an early-May 2025 Adroit/Keenai transition. Both are self-reported, not former-employer confirmations. The current [Keenai About page](https://www.keenaiglobal.com/about) identifies Keenai as a brand of LC Adroit Vantage Private Limited and does not list Haarish in the captured current leadership roster; that absence does not disprove historical work.
 
 ### Former-employer confirmation
 

@@ -121,7 +121,53 @@ Do not call AIHL “unregistered” because the ADGM register was access-limited
 
 The footer also contains legacy query links `?page_id=9159` and `?page_id=8859`, both captured as **404**. This is a website-control issue, not proof of wrongdoing, but it matters for trust and smooth navigation.
 
-## 5. Company timeline
+## 5. Business model in simple English
+
+The public evidence suggests a **relationship-led advisory model**, not a proven fund-management platform.
+
+### What appears to happen today
+
+1. Apolonia speaks with companies, investors and strategic partners.
+2. It may provide financial consultation, introduce parties and promote permitted opportunities within the exact CMA scope.
+3. It publishes project pages, events, leadership profiles and partner announcements to build deal flow and relationships.
+4. It appears to be building a wider group around AIHL, wealth management, asset management and ventures, but those wider verticals are not independently established as live regulated businesses.
+
+The public material does **not** disclose a full fee schedule. It does not establish whether a proposed engagement would use a retainer, referral fee, success fee, equity, carried interest or another arrangement. The contract must state this clearly.
+
+### What this means
+
+Apolonia may be useful as an introducer or adviser for a defined Gulf–Asia mandate. That is different from being the manager of a fund, the holder of assets or the provider of a regulatory wrapper.
+
+## 6. Size and operating footprint
+
+The safest description is **young and publicly active, with a modest verified operating footprint**. That is not the same as calling it either “small” or “large” as a fact.
+
+| Indicator | What the public record shows | Meaning |
+|---|---|---|
+| Legal age | CMA established date: 23 October 2024 | The current legal entity is recent. |
+| Domain age | `apoloniacapital.com` registration event: 10 June 2024 | Shows domain history, not incorporation. |
+| Regulatory footprint | Active CMA record; 0 branches; four activity-linked accredited roles in the captured response | There is a real regulated operating record, but the public footprint is narrow. |
+| Location | Burj Al Salam / Trade Center First, Dubai | One publicly consistent Dubai office location; address and contact channels still need reconciliation. |
+| People | The website lists a wider team and advisers; the CMA response exposes four activity-linked roles | The website shows a build-out, not verified headcount or employment status for everyone. |
+| Digital presence | Public website, LinkedIn company page, Instagram, careers pages, events and project pages | Visible business-development activity, not proof of revenue or client outcomes. |
+| Vendor/partner signals | Odoo customer reference and a Century R MoU announcement | Positive operating signals, but not proof of profit, closed deals or returns. |
+| Financial scale | No audited revenue, AUM, profit, fund close or named-client schedule found | Institutional scale remains unverified. |
+
+At retrieval, the public LinkedIn page displayed approximately 3,162 followers and 27 associated employees, and Instagram displayed approximately 490 followers. These numbers are time-sensitive platform displays, not audited headcount or customer evidence.
+
+## 7. Public presence and historical activity
+
+The public footprint is broad enough to show active positioning:
+
+- Apolonia’s website publishes offerings, team biographies, AML, privacy, terms, fraud-alert and event pages.
+- The company publishes a 2025 “full regulatory licence” announcement through PRNewswire. That is a company/PR statement; the CMA record is the stronger evidence for exact scope.
+- Odoo publicly presents Apolonia as a customer for a CRM and operations-management implementation.
+- Century R publicly reports a Thailand–UAE strategic MoU with Apolonia. This supports a public relationship announcement, not a completed investment or return.
+- Three company-controlled project pages name Innovate Consultancy, Stratedge Solutions and Uplift Strategies. They do not provide independent client-outcome evidence.
+- A PitchBook preview contains dated MNG Airlines service leads from before the current entity’s 23 October 2024 establishment. No primary source tied those entries to this entity, so they are not verified Apolonia track record.
+- A 2022 LedgerFi announcement reported 750,000 users and 2 million emails, while the current LedgerMail dashboard displayed zero groups, users, email exchange and active wallets. This is a public-signal conflict requiring explanation, not a fraud finding.
+
+## 8. Company timeline
 
 | Date | Event or public marker | Reading |
 |---|---|---|
@@ -138,7 +184,7 @@ The footer also contains legacy query links `?page_id=9159` and `?page_id=8859`,
 | **2026** | AIHL’s current site describes an ADGM holding layer and future group verticals. | Public group claim; ADGM number/extract still needed. |
 | **19 September 2026** | Browser QA captured 200 pages for the disclaimer, AML, privacy, terms, insights, event and main team pages; 404s for the two visible offering routes and two legacy query links. | Current website quality/control result; details are in [saved evidence](evidence/apolonia_source_manifest.json). |
 
-## 6. People, governance and the “board member” question
+## 9. People, governance and the “board member” question
 
 The [Apolonia team page](https://apoloniacapital.com/our-team/) lists:
 
@@ -167,7 +213,7 @@ The public material does not identify a Haarish board appointment. In this setti
 
 The exact entity, appointment letter, board/shareholder resolution, voting rights, liability, fees/equity and removal terms must be requested before using the title.
 
-## 7. Haarish: separate supporting section
+## 10. Haarish: separate supporting section
 
 This section is deliberately shorter than the [separate Haarish report](PERSON_RESEARCH.md). It answers how his profile affects Apolonia diligence.
 
@@ -185,7 +231,7 @@ Apollo’s private person match links Haarish to an EWA CEO role from May 2025. 
 - His overlap with EWA and Apolonia needs a dated explanation and conflict-of-interest check.
 - Two former employers have not independently confirmed his dates and titles.
 
-## 8. Answer to the open questions
+## 11. Answer to the open questions
 
 ### 1. What is EWA’s exact legal name and registration number?
 
@@ -237,7 +283,7 @@ Useful official routes: [SEBI AIF rules](https://www.sebi.gov.in/legal/regulatio
 
 **Not yet.** Public pages and Apollo provide leads, and CEOInsights describes his J.P. Morgan/Northern Trust history, but no employer confirmation was obtained. Ask Haarish for written permission and use official HR/reference channels, not personal contact details found online.
 
-## 9. Track record, positive signals and missing proof
+## 12. Track record, positive signals and missing proof
 
 ### Positive signals
 
@@ -262,7 +308,7 @@ Useful official routes: [SEBI AIF rules](https://www.sebi.gov.in/legal/regulatio
 - No public document proves Haarish is a statutory director, board member, owner or CMA-approved employee.
 - The site currently contains several dead offering routes, including `/apolonia-ventures/` and `/securities-services-solutions/`, both captured as 404. The [working offerings page](https://apoloniacapital.com/our-offerings/) and [saved page-status manifest](evidence/apolonia_source_manifest.json) preserve the finding without sending readers to dead navigation.
 
-## 10. POSH, complaints and adverse information
+## 13. POSH, complaints and adverse information
 
 The searches reviewed exact and close name forms for:
 
@@ -283,7 +329,7 @@ No clearly identity-matched public result was found for Apolonia in the bounded 
 ### Reviews and namesakes
 
 No attributable customer-review profile, verified review volume, recurring complaint pattern or employee-review profile for the exact UAE entity surfaced. Results for [Apolónia on Glassdoor](https://www.glassdoor.com/Reviews/Apol%C3%B3nia-Reviews-E4596529.htm) and [apolloscapital.com on Trustpilot](https://www.trustpilot.com/review/apolloscapital.com) were excluded as unrelated namesakes. Review evidence is therefore **insufficient**, not positive.
-## 11. Contract, fee and money-flow map
+## 14. Contract, fee and money-flow map
 
 Before a partnership, the flow should look like this:
 
@@ -307,7 +353,7 @@ Investor/client money and assets
 
 Apolonia should not receive or hold investor money merely because it has a CMA record. The contract must state who performs consultation, introduction or promotion; who makes investment decisions; who handles onboarding; who receives fees; who holds assets; and who is responsible for disclosures and complaints.
 
-## 12. Documents to request before money, data or a board role
+## 15. Documents to request before money, data or a board role
 
 1. Current CMA certificate with exact legal name, number, activities and validity.
 2. UAE trade licence/incorporation certificate for the contracting entity.
@@ -322,7 +368,7 @@ Apolonia should not receive or hold investor money merely because it has a CMA r
 11. Permission-based confirmation of Haarish’s former employment dates and titles.
 12. Workplace conduct, complaints and conflict-of-interest policy for each entity involved.
 
-## 13. Final recommendation
+## 16. Founder-level interpretation and recommendation
 
 **Proceed only as a document-gated pilot.** Keep it small, non-exclusive and limited to a clearly described advisory/introduction task. Do not:
 
@@ -335,7 +381,7 @@ Apolonia should not receive or hold investor money merely because it has a CMA r
 
 **Bottom line:** Apolonia looks like a young, active UAE advisory business with a real CMA record and some operating signals. Its current public record is not yet clean enough to support broad reliance on its group structure, wider planned services, track record, Haarish’s legal authority or any promise of capital/regulatory access.
 
-## Saved research files
+## 17. Source and evidence index
 
 The public package keeps machine-readable evidence separate from the narrative. These files do not contain passwords, tokens, private browser sessions, raw private Apollo responses or private contact data:
 

@@ -499,5 +499,25 @@
     "cross_navigation_ok": true,
     "status": "PASS_WITH_ACCESS_LIMITS"
   },
-  "environment_note": "Browser QA ran against a local preview server; local host details are intentionally omitted from this public summary."
+  "environment_note": "Browser QA ran against a local preview server; local host details are intentionally omitted from this public summary.",
+  "last_focused_ad_hoc_verification": {
+    "classification": "focused ad-hoc verification; no canonical project test suite detected",
+    "status": "PASS",
+    "browser_checks": 6,
+    "viewports": [
+      "1440x900",
+      "768x1024",
+      "390x844"
+    ],
+    "cross_report_navigation": "PASS",
+    "external_urls_checked": 27,
+    "external_dead_or_error": 0,
+    "external_access_limited": [
+      "https://app.invest.dubai.ae/search-license",
+      "https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/",
+      "https://www.adgm.com/public-registers/fsra"
+    ],
+    "static_privacy_checks": "PASS",
+    "temp_verifier_cleaned": true
+  }
 }

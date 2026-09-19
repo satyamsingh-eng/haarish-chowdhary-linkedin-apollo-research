@@ -1,25 +1,36 @@
-# EWA Investments Strategies — company research
+# Apolonia Capital — public due-diligence package
 
-A plain-English, public-source company check focused on EWA Investments Strategies / https://ewa.group/ and its public link to Haarish Chowdhary.
+This repository has **two connected reports**:
 
-**Research date:** 19 September 2026
+1. **[Main report: Apolonia Capital](REPORT.html)** — entity, UAE CMA record, licence scope, AIHL group claim, timeline, people, track record, adverse search and decision checklist.
+2. **[Separate report: Haarish Chowdhary](PERSON_RESEARCH.html)** — professional profile, Apolonia title, EWA overlap, Apollo data-quality issue and missing documents.
 
-## Read it
+The reports link to each other. The Apolonia report is the main report; the Haarish report is supporting research.
 
-- [HTML report](REPORT.html)
-- [Markdown report](REPORT.md)
-- [Evidence diagram](assets/ewa-evidence-map.svg)
-- [Safe Apollo note](evidence/apollo_ewa_safe.json)
-- [Claim ledger](evidence/ewa_claims.json)
+## Read in Markdown
+
+- [Main Apolonia report](REPORT.md)
+- [Separate Haarish report](PERSON_RESEARCH.md)
+
+## Evidence and QA
+
+- [Apolonia evidence map](assets/apolonia-evidence-map.svg)
+- [Apolonia claim ledger](evidence/apolonia_claims.json)
+- [Public source/page-status manifest](evidence/apolonia_source_manifest.json)
+- [Sanitized Apollo/EWA note](evidence/apollo_ewa_safe.json)
+- [EWA supporting evidence](evidence/ewa_company_evidence.json)
 - [QA summary](evidence/qa_summary.json)
-- [Earlier person-level report](PERSON_RESEARCH.html)
 
-## Main result
+## Plain-language result
 
-The public [EWA LinkedIn page](https://www.linkedin.com/company/ewa1) presents a small Dubai consulting company founded in 2025. The [website](https://ewa.group/) is thin and does not show an exact legal name or licence. Apollo links Haarish to the company, but the public page lists one visible employee, so the current role needs documents.
+The official [UAE CMA record](https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330) shows an active entity named `APOLONIA CAPITAL FINANCIAL SERVICES L.L.C`, company code `CP-0001330`, established 23 October 2024, with Financial Consultations, Introduction and Promotion. Apolonia’s own [regulatory disclaimer](https://apoloniacapital.com/regulatory-disclaimer/) uses a different name and `20200000300`, and says its wider investment banking, asset-management, wealth, MFO, venture and securities services are future plans that are not currently licensed/offered by CMA.
 
-No exact public POSH, harassment, court, fraud, scam or lawsuit result was found in the bounded searches linked inside the report. That is not a clean-record certificate. No independent client review, named deal or case study was found either.
+AIHL says it is an ADGM holding company, but the public register extract/number was not obtained. Haarish’s Apolonia title is publicly stated; his EWA overlap, legal authority, board status and former-employer dates still need documents.
 
-## Safety and privacy
+No exact identity-matched public POSH, harassment, police, fraud, scam, lawsuit or court result was found in the bounded searches reviewed. That is not a clean-record certificate.
 
-This package contains no private email, phone number, home address, password, token, API key, credential, browser session or raw Apollo response. Apollo is treated as a lead source, not proof. This is not legal, tax or investment advice.
+## Privacy and method
+
+The public package uses public links beside claims. Private raw captures remain outside GitHub. No password, token, API key, browser session, private contact data or raw private Apollo response is published. Apollo is treated as a lead source, not final legal proof.
+
+This is research, not legal, tax or investment advice.

@@ -1,0 +1,70 @@
+{
+  "research_date": "19 September 2026",
+  "main_report": "REPORT.html",
+  "related_report": "PERSON_RESEARCH.html",
+  "browser_capture_results": {
+    "working_200": [
+      "https://apoloniacapital.com/",
+      "https://apoloniacapital.com/our-team/",
+      "https://apoloniacapital.com/regulatory-disclaimer/",
+      "https://apoloniacapital.com/aml-policy/",
+      "https://apoloniacapital.com/privacy-policy-2/",
+      "https://apoloniacapital.com/terms-conditions-4/",
+      "https://apoloniacapital.com/insights/",
+      "https://apoloniacapital.com/exclusive-event/",
+      "https://apoloniaholding.com/",
+      "https://apoloniaholding.com/apolonia-ventures/",
+      "https://apoloniaholding.com/our-team/"
+    ],
+    "captured_404": [
+      "https://apoloniacapital.com/apolonia-ventures/",
+      "https://apoloniacapital.com/securities-services-solutions/",
+      "https://apoloniacapital.com/?page_id=9159",
+      "https://apoloniacapital.com/?page_id=8859",
+      "https://apoloniaholding.com/apolonia-investment-holdings/"
+    ],
+    "access_limited": [
+      "https://www.adgm.com/public-registers",
+      "https://hrtoday.in/apolonia-capital-appoints-haarish-chowdhary-as-managing-director-head-of-wealth-management-multi-family-office/",
+      "https://www.linkedin.com/in/haarishchowdhary"
+    ]
+  },
+  "key_public_sources": [
+    {
+      "label": "UAE CMA company record",
+      "url": "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330",
+      "use": "official entity and activity record"
+    },
+    {
+      "label": "Apolonia regulatory disclaimer",
+      "url": "https://apoloniacapital.com/regulatory-disclaimer/",
+      "use": "website name, number, scope and client-money disclosure"
+    },
+    {
+      "label": "Apolonia team",
+      "url": "https://apoloniacapital.com/our-team/",
+      "use": "people and company claims"
+    },
+    {
+      "label": "Haarish biography",
+      "url": "https://apoloniacapital.com/haarish-chowdhary/",
+      "use": "company-stated people role"
+    },
+    {
+      "label": "AIHL home",
+      "url": "https://apoloniaholding.com/",
+      "use": "holding-company claim"
+    },
+    {
+      "label": "Odoo customer reference",
+      "url": "https://www.odoo.com/customers/apolonia-capital-for-financial-consultation-financial-analysis-llc-26303195",
+      "use": "independent operating signal"
+    },
+    {
+      "label": "EWA LinkedIn page",
+      "url": "https://www.linkedin.com/company/ewa1",
+      "use": "supporting EWA identity check"
+    }
+  ],
+  "privacy_note": "Public package contains no credentials, passwords, tokens, browser sessions, raw private Apollo response, private contact data or local filesystem paths. Apollo is treated as a lead source."
+}

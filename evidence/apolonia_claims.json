@@ -1,0 +1,147 @@
+[
+  {
+    "id": "AC-01",
+    "claim": "The UAE CMA public record lists APOLONIA CAPITAL FINANCIAL SERVICES L.L.C as active under CP-0001330.",
+    "status": "VERIFIED_PUBLIC_RECORD",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330"
+    ]
+  },
+  {
+    "id": "AC-02",
+    "claim": "The CMA record gives an established date of 23 October 2024 and paid issue capital of AED 500,000.",
+    "status": "VERIFIED_PUBLIC_RECORD",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330"
+    ]
+  },
+  {
+    "id": "AC-03",
+    "claim": "The CMA record lists Financial Consultations, Introduction and Promotion as active activities.",
+    "status": "VERIFIED_PUBLIC_RECORD",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330"
+    ]
+  },
+  {
+    "id": "AC-04",
+    "claim": "The website uses the name Apolonia Capital for Financial Consultation & Financial Analysis LLC and licence number 20200000300.",
+    "status": "COMPANY_STATED",
+    "confidence": "high",
+    "source_urls": [
+      "https://apoloniacapital.com/regulatory-disclaimer/",
+      "https://apoloniacapital.com/terms-conditions-4/",
+      "https://apoloniacapital.com/privacy-policy-2/"
+    ]
+  },
+  {
+    "id": "AC-05",
+    "claim": "The captured CMA lookup for exact number 20200000300 returned no matching company detail; the reason is unresolved.",
+    "status": "UNRESOLVED",
+    "confidence": "high",
+    "source_urls": [
+      "https://www.uaecma.gov.ae/en/open-data/licensed-companies.aspx?q=CP-0001330"
+    ]
+  },
+  {
+    "id": "AC-06",
+    "claim": "The regulatory disclaimer says wider investment banking, venture, asset management, wealth management, MFO and securities services are future plans and not currently licensed/offered by CMA.",
+    "status": "VERIFIED_COMPANY_DISCLOSURE",
+    "confidence": "high",
+    "source_urls": [
+      "https://apoloniacapital.com/regulatory-disclaimer/"
+    ]
+  },
+  {
+    "id": "AC-07",
+    "claim": "The disclaimer says Apolonia does not hold client money/assets or provide custody unless separately authorised.",
+    "status": "VERIFIED_COMPANY_DISCLOSURE",
+    "confidence": "high",
+    "source_urls": [
+      "https://apoloniacapital.com/regulatory-disclaimer/",
+      "https://apoloniacapital.com/terms-conditions-4/"
+    ]
+  },
+  {
+    "id": "AC-08",
+    "claim": "AIHL publicly describes itself as an ADGM-established holding and oversight entity, but no registration number or extract was obtained.",
+    "status": "COMPANY_STATED_UNCONFIRMED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://apoloniaholding.com/",
+      "https://www.adgm.com/public-registers"
+    ]
+  },
+  {
+    "id": "AC-09",
+    "claim": "Odoo publicly identifies Apolonia Capital For Financial Consultation & Financial Analysis LLC as a customer reference and describes a customised CRM/operations platform.",
+    "status": "INDEPENDENT_SUPPORT_LIMITED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.odoo.com/customers/apolonia-capital-for-financial-consultation-financial-analysis-llc-26303195"
+    ]
+  },
+  {
+    "id": "AC-10",
+    "claim": "Apolonia’s team page claims 250+ successfully completed mandates across the team’s combined careers.",
+    "status": "COMPANY_STATED_UNVERIFIED",
+    "confidence": "low",
+    "source_urls": [
+      "https://apoloniacapital.com/our-team/"
+    ]
+  },
+  {
+    "id": "AC-11",
+    "claim": "The current Apolonia biography states Haarish is Managing Director and Head of Wealth Management & Multi-Family Office.",
+    "status": "COMPANY_STATED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://apoloniacapital.com/haarish-chowdhary/"
+    ]
+  },
+  {
+    "id": "AC-12",
+    "claim": "Apollo/public LinkedIn signals overlap Haarish with EWA from May 2025, while the EWA page shows one visible employee and Apollo’s organisation match points to an Egyptian logistics company.",
+    "status": "CONTRADICTORY_UNRESOLVED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.linkedin.com/company/ewa1",
+      "https://ewa.group/"
+    ]
+  },
+  {
+    "id": "AC-13",
+    "claim": "The visible Apolonia Ventures and Securities Services routes, and two legacy query links, returned 404 in the browser capture.",
+    "status": "VERIFIED_PAGE_STATUS",
+    "confidence": "high",
+    "source_urls": [
+      "https://apoloniacapital.com/apolonia-ventures/",
+      "https://apoloniacapital.com/securities-services-solutions/",
+      "https://apoloniacapital.com/?page_id=9159",
+      "https://apoloniacapital.com/?page_id=8859"
+    ]
+  },
+  {
+    "id": "AC-14",
+    "claim": "No exact identity-matched public POSH, harassment, police, fraud, scam, lawsuit or court result was found in the bounded searches reviewed.",
+    "status": "NOT_FOUND_BOUNDED_SEARCH",
+    "confidence": "low",
+    "source_urls": [
+      "https://www.google.com/search?q=%22Apolonia+Capital%22+%28lawsuit+OR+court+OR+complaint+OR+fraud+OR+scam%29",
+      "https://www.google.com/search?q=%22Apolonia+Capital%22+%28POSH+OR+%22sexual+harassment%22+OR+harassment+OR+police%29"
+    ]
+  },
+  {
+    "id": "AC-15",
+    "claim": "No named, client-consented closed transaction schedule or independently verified performance record was found in the reviewed public material.",
+    "status": "NOT_VERIFIED",
+    "confidence": "medium",
+    "source_urls": [
+      "https://pitchbook.com/profiles/advisor/515821-33",
+      "https://apoloniacapital.com/our-team/"
+    ]
+  }
+]
